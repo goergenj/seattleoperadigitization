@@ -45,6 +45,7 @@ seattleopera/
 ├── curesults/                      # JSON processing directory
 │   └── processed/                  # Auto-managed processed files folder
 ├── playbills/                      # Input images directory
+│   └── processed/                  # Auto-managed processed files folder
 └── README.md                       # This documentation
 ```
 
@@ -303,3 +304,4 @@ python seattleoperacuprocessing.py
 **Components**: Azure AI Document Intelligence + Excel Table Generation  
 **Status**: Production Ready  
 **Author**: Jan Goergen
+

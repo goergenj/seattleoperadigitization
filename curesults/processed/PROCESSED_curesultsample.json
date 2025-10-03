@@ -1,3753 +1,2795 @@
 {
-	"id": "333f5eb9-d812-4a06-83a9-830e3ece8edb",
-	"status": "Succeeded",
-	"result": {
-		"analyzerId": "auto-labeling-model-1759511838347-94",
-		"apiVersion": "2025-05-01-preview",
-		"createdAt": "2025-10-03T17:17:36Z",
-		"warnings": [],
-		"contents": [
-			{
-				"markdown": "Conductor\nHENRY HOLT\n\nEnglish Series Conductor\nROGER CANTRELL\n\nStage Director\nLINCOLN CLARK\n\nScenic Designer\nROBERT O'HEARN\nThe Greater Miami Opera Ass'n\n\nCostumes\nSUZANNE MESS, Malabar Ltd.\n\nLighting Designer\nE. DEE TORREY\n\nChoral Preparation\nHANS WOLF\n\nWigs and Hairstyles\nWAYNE GEROU\n\nMake-up Artist\nBARBARA MURPHY YORK\n\nFinal Curtain approximately 10:45 pm\nLatecomers will not be seated after\nthe house lights are lowered.\n\nPLEASE DO NOT INTERRUPT\nTHE MUSIC WITH APPLAUSE.\nMAY 6, 9, 10, 13, 15, 16, 1981\n\n\n# DON PASQUALE\n\nMay 6, 9, 10*, 13, 15*, 16, 1981\n\nOpera buffa in three acts by Donizetti; text by Ruffini and the composer.\nPremiered 3 January 1843 in Paris. English translation by Phyllis Mead,\nused by arrangement with Associated Music Publishers, Inc., U. S.\nagents for G. Ricordi and Company, Milano.\n\n\n## CAST IN ORDER OF APPEARANCE\n\nDon Pasquale SIR GERAINT EVANS/ARCHIE DRAKE*\nDr. Malatesta MARIO D'ANNA}/ERICH PARCE*\nErnesto\nEDUARDO GIMENEZ+/WILLIAM LIVINGSTON*\nNorina\nCAROL WEBBER/JULI HOLLAND*t\n\nA Notary BOYD SCHLAEFERt\n\n+Seattle Opera debut\n*Opera-in-English\n\nWe wish to thank these significant contributors to this Don Pasquale presentation: Mr. and\nMrs. Howard S. Wright, Mr. and Mrs. Winston Scott, Mr. and Mrs. N. Stewart Rogers, Mr.\nand Mrs. James C. McCurdy, Mr. John Graham, Mr. and Mrs. Stanley Golub, Mr. and Mrs.\nRoger E. Forbes and Anonymous.\n\nThe Opera-in-English Series performances are a project supported by a grant from the\nNational Endowment for the Arts in Washington, D.C., a Federal Agency.\n\nThe Artist-in-Residence Program is jointly supported by the Washington State Arts\nCommission and the National Endowment for the Arts.\n\nWe wish to thank PONCHO for a major grant to help meet requirements for the Challenge\nGrant from the National Endowment for the Arts.\n\nPuget Sound Business supports Seattle Opera through the Corporate Council for the Arts.\n\nSeattle Opera is a member of OPERA America.\n\n<!-- PageNumber=\"13\" -->\n",
-				"fields": {
-					"SHOW": {
-						"type": "string",
-						"valueString": "DON PASQUALE"
-					},
-					"DATES": {
-						"type": "string",
-						"valueString": "May 6, 9, 10, 13, 15, 16, 1981"
-					},
-					"ROLES": {
-						"type": "array",
-						"valueArray": [
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Conductor"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "HENRY HOLT"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "English Series Conductor"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "ROGER CANTRELL"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Stage Director"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "LINCOLN CLARK"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Scenic Designer"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "ROBERT O'HEARN"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "The Greater Miami Opera Ass'n"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Costumes"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "SUZANNE MESS"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "Malabar Ltd."
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Lighting Designer"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "E. DEE TORREY"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Choral Preparation"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "HANS WOLF"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Wigs and Hairstyles"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "WAYNE GEROU"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Make-up Artist"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "BARBARA MURPHY YORK"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Don Pasquale"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "SIR GERAINT EVANS"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Don Pasquale"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "ARCHIE DRAKE"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "Opera-in-English"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Dr. Malatesta"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "MARIO D'ANNA"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Dr. Malatesta"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "ERICH PARCE"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "Opera-in-English"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Ernesto"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "EDUARDO GIMENEZ"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "Seattle Opera debut"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Ernesto"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "WILLIAM LIVINGSTON"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "Opera-in-English"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Norina"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "CAROL WEBBER"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "Norina"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "JULI HOLLAND"
-									},
-									"OTHER": {
-										"type": "string",
-										"valueString": "Opera-in-English"
-									}
-								}
-							},
-							{
-								"type": "object",
-								"valueObject": {
-									"ROLE": {
-										"type": "string",
-										"valueString": "A Notary"
-									},
-									"ARTIST": {
-										"type": "string",
-										"valueString": "BOYD SCHLAEFER"
-									},
-									"OTHER": {
-										"type": "string"
-									}
-								}
-							}
-						]
-					}
-				},
-				"kind": "document",
-				"startPageNumber": 1,
-				"endPageNumber": 1,
-				"unit": "pixel",
-				"pages": [
-					{
-						"pageNumber": 1,
-						"angle": 0.7503078,
-						"width": 1000,
-						"height": 1325,
-						"spans": [
-							{
-								"offset": 0,
-								"length": 1963
-							}
-						],
-						"words": [
-							{
-								"content": "Conductor",
-								"span": {
-									"offset": 0,
-									"length": 9
-								},
-								"confidence": 0.995,
-								"source": "D(1,44,518,121,518,121,537,43,536)"
-							},
-							{
-								"content": "HENRY",
-								"span": {
-									"offset": 10,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,42,535,100,536,99,555,42,555)"
-							},
-							{
-								"content": "HOLT",
-								"span": {
-									"offset": 16,
-									"length": 4
-								},
-								"confidence": 0.989,
-								"source": "D(1,105,536,153,536,153,556,104,555)"
-							},
-							{
-								"content": "English",
-								"span": {
-									"offset": 22,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,42,573,92,574,91,593,42,592)"
-							},
-							{
-								"content": "Series",
-								"span": {
-									"offset": 30,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,97,574,140,574,140,594,96,593)"
-							},
-							{
-								"content": "Conductor",
-								"span": {
-									"offset": 37,
-									"length": 9
-								},
-								"confidence": 0.995,
-								"source": "D(1,146,574,229,575,228,595,145,594)"
-							},
-							{
-								"content": "ROGER",
-								"span": {
-									"offset": 47,
-									"length": 5
-								},
-								"confidence": 0.977,
-								"source": "D(1,41,591,99,592,99,611,41,611)"
-							},
-							{
-								"content": "CANTRELL",
-								"span": {
-									"offset": 53,
-									"length": 8
-								},
-								"confidence": 0.995,
-								"source": "D(1,104,592,196,593,196,612,104,611)"
-							},
-							{
-								"content": "Stage",
-								"span": {
-									"offset": 63,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,41,629,82,630,81,649,40,648)"
-							},
-							{
-								"content": "Director",
-								"span": {
-									"offset": 69,
-									"length": 8
-								},
-								"confidence": 0.995,
-								"source": "D(1,86,630,148,630,147,649,85,649)"
-							},
-							{
-								"content": "LINCOLN",
-								"span": {
-									"offset": 78,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,40,647,115,648,115,667,40,666)"
-							},
-							{
-								"content": "CLARK",
-								"span": {
-									"offset": 86,
-									"length": 5
-								},
-								"confidence": 0.994,
-								"source": "D(1,121,648,181,648,181,668,120,667)"
-							},
-							{
-								"content": "Scenic",
-								"span": {
-									"offset": 93,
-									"length": 6
-								},
-								"confidence": 0.996,
-								"source": "D(1,40,684,87,685,86,704,39,703)"
-							},
-							{
-								"content": "Designer",
-								"span": {
-									"offset": 100,
-									"length": 8
-								},
-								"confidence": 0.995,
-								"source": "D(1,92,685,157,686,156,706,91,704)"
-							},
-							{
-								"content": "ROBERT",
-								"span": {
-									"offset": 109,
-									"length": 6
-								},
-								"confidence": 0.997,
-								"source": "D(1,39,702,106,703,105,722,39,722)"
-							},
-							{
-								"content": "O'HEARN",
-								"span": {
-									"offset": 116,
-									"length": 7
-								},
-								"confidence": 0.975,
-								"source": "D(1,110,703,189,703,189,723,110,722)"
-							},
-							{
-								"content": "The",
-								"span": {
-									"offset": 124,
-									"length": 3
-								},
-								"confidence": 0.999,
-								"source": "D(1,56,722,81,722,81,742,55,741)"
-							},
-							{
-								"content": "Greater",
-								"span": {
-									"offset": 128,
-									"length": 7
-								},
-								"confidence": 0.995,
-								"source": "D(1,85,722,137,723,137,743,85,742)"
-							},
-							{
-								"content": "Miami",
-								"span": {
-									"offset": 136,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,141,723,186,723,185,744,141,743)"
-							},
-							{
-								"content": "Opera",
-								"span": {
-									"offset": 142,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,190,723,235,724,235,744,189,744)"
-							},
-							{
-								"content": "Ass'n",
-								"span": {
-									"offset": 148,
-									"length": 5
-								},
-								"confidence": 0.977,
-								"source": "D(1,239,724,281,724,281,744,239,744)"
-							},
-							{
-								"content": "Costumes",
-								"span": {
-									"offset": 155,
-									"length": 8
-								},
-								"confidence": 0.992,
-								"source": "D(1,39,759,112,761,112,778,39,777)"
-							},
-							{
-								"content": "SUZANNE",
-								"span": {
-									"offset": 164,
-									"length": 7
-								},
-								"confidence": 0.996,
-								"source": "D(1,38,777,115,777,114,798,38,797)"
-							},
-							{
-								"content": "MESS,",
-								"span": {
-									"offset": 172,
-									"length": 5
-								},
-								"confidence": 0.994,
-								"source": "D(1,119,777,172,778,171,799,118,798)"
-							},
-							{
-								"content": "Malabar",
-								"span": {
-									"offset": 178,
-									"length": 7
-								},
-								"confidence": 0.996,
-								"source": "D(1,177,778,238,779,238,800,177,799)"
-							},
-							{
-								"content": "Ltd.",
-								"span": {
-									"offset": 186,
-									"length": 4
-								},
-								"confidence": 0.977,
-								"source": "D(1,244,779,275,779,274,800,244,800)"
-							},
-							{
-								"content": "Lighting",
-								"span": {
-									"offset": 192,
-									"length": 8
-								},
-								"confidence": 0.995,
-								"source": "D(1,38,819,95,820,94,839,37,838)"
-							},
-							{
-								"content": "Designer",
-								"span": {
-									"offset": 201,
-									"length": 8
-								},
-								"confidence": 0.996,
-								"source": "D(1,99,820,166,820,165,840,99,839)"
-							},
-							{
-								"content": "E.",
-								"span": {
-									"offset": 210,
-									"length": 2
-								},
-								"confidence": 0.989,
-								"source": "D(1,38,837,52,837,52,856,37,856)"
-							},
-							{
-								"content": "DEE",
-								"span": {
-									"offset": 213,
-									"length": 3
-								},
-								"confidence": 0.997,
-								"source": "D(1,58,837,90,838,89,857,58,856)"
-							},
-							{
-								"content": "TORREY",
-								"span": {
-									"offset": 217,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,95,838,165,838,165,858,94,857)"
-							},
-							{
-								"content": "Choral",
-								"span": {
-									"offset": 225,
-									"length": 6
-								},
-								"confidence": 0.977,
-								"source": "D(1,37,870,87,871,86,891,37,890)"
-							},
-							{
-								"content": "Preparation",
-								"span": {
-									"offset": 232,
-									"length": 11
-								},
-								"confidence": 0.992,
-								"source": "D(1,91,871,179,873,179,892,90,891)"
-							},
-							{
-								"content": "HANS",
-								"span": {
-									"offset": 244,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,36,889,83,889,83,908,36,908)"
-							},
-							{
-								"content": "WOLF",
-								"span": {
-									"offset": 249,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,88,889,139,890,139,908,88,908)"
-							},
-							{
-								"content": "Wigs",
-								"span": {
-									"offset": 255,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,37,926,71,927,71,946,36,945)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 260,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,77,927,102,927,101,947,76,946)"
-							},
-							{
-								"content": "Hairstyles",
-								"span": {
-									"offset": 264,
-									"length": 10
-								},
-								"confidence": 0.992,
-								"source": "D(1,105,927,183,928,183,948,105,947)"
-							},
-							{
-								"content": "WAYNE",
-								"span": {
-									"offset": 275,
-									"length": 5
-								},
-								"confidence": 0.994,
-								"source": "D(1,36,944,97,945,97,964,36,964)"
-							},
-							{
-								"content": "GEROU",
-								"span": {
-									"offset": 281,
-									"length": 5
-								},
-								"confidence": 0.994,
-								"source": "D(1,103,945,166,946,166,965,102,964)"
-							},
-							{
-								"content": "Make-up",
-								"span": {
-									"offset": 288,
-									"length": 7
-								},
-								"confidence": 0.994,
-								"source": "D(1,35,982,97,983,97,1001,34,1001)"
-							},
-							{
-								"content": "Artist",
-								"span": {
-									"offset": 296,
-									"length": 6
-								},
-								"confidence": 0.993,
-								"source": "D(1,102,983,145,983,145,1002,101,1002)"
-							},
-							{
-								"content": "BARBARA",
-								"span": {
-									"offset": 303,
-									"length": 7
-								},
-								"confidence": 0.996,
-								"source": "D(1,35,1000,113,1001,112,1021,35,1020)"
-							},
-							{
-								"content": "MURPHY",
-								"span": {
-									"offset": 311,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,118,1001,192,1002,192,1021,117,1021)"
-							},
-							{
-								"content": "YORK",
-								"span": {
-									"offset": 318,
-									"length": 4
-								},
-								"confidence": 0.987,
-								"source": "D(1,198,1002,250,1003,250,1022,198,1021)"
-							},
-							{
-								"content": "Final",
-								"span": {
-									"offset": 324,
-									"length": 5
-								},
-								"confidence": 0.985,
-								"source": "D(1,32,1184,58,1185,57,1199,31,1199)"
-							},
-							{
-								"content": "Curtain",
-								"span": {
-									"offset": 330,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,61,1185,99,1185,99,1200,61,1199)"
-							},
-							{
-								"content": "approximately",
-								"span": {
-									"offset": 338,
-									"length": 13
-								},
-								"confidence": 0.992,
-								"source": "D(1,102,1185,177,1187,176,1201,102,1200)"
-							},
-							{
-								"content": "10:45",
-								"span": {
-									"offset": 352,
-									"length": 5
-								},
-								"confidence": 0.989,
-								"source": "D(1,182,1187,208,1187,207,1202,181,1201)"
-							},
-							{
-								"content": "pm",
-								"span": {
-									"offset": 358,
-									"length": 2
-								},
-								"confidence": 0.957,
-								"source": "D(1,211,1187,230,1187,230,1202,211,1202)"
-							},
-							{
-								"content": "Latecomers",
-								"span": {
-									"offset": 361,
-									"length": 10
-								},
-								"confidence": 0.992,
-								"source": "D(1,32,1198,91,1199,91,1213,31,1212)"
-							},
-							{
-								"content": "will",
-								"span": {
-									"offset": 372,
-									"length": 4
-								},
-								"confidence": 0.913,
-								"source": "D(1,96,1199,112,1199,112,1213,95,1213)"
-							},
-							{
-								"content": "not",
-								"span": {
-									"offset": 377,
-									"length": 3
-								},
-								"confidence": 0.992,
-								"source": "D(1,115,1199,132,1200,131,1213,115,1213)"
-							},
-							{
-								"content": "be",
-								"span": {
-									"offset": 381,
-									"length": 2
-								},
-								"confidence": 0.995,
-								"source": "D(1,136,1200,148,1200,148,1214,136,1214)"
-							},
-							{
-								"content": "seated",
-								"span": {
-									"offset": 384,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,152,1200,187,1200,187,1214,151,1214)"
-							},
-							{
-								"content": "after",
-								"span": {
-									"offset": 391,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,190,1200,217,1201,216,1215,189,1214)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 397,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,32,1212,48,1212,48,1226,31,1226)"
-							},
-							{
-								"content": "house",
-								"span": {
-									"offset": 401,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,52,1212,80,1212,79,1227,51,1226)"
-							},
-							{
-								"content": "lights",
-								"span": {
-									"offset": 407,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,83,1212,110,1213,110,1227,82,1227)"
-							},
-							{
-								"content": "are",
-								"span": {
-									"offset": 414,
-									"length": 3
-								},
-								"confidence": 0.913,
-								"source": "D(1,114,1213,131,1213,131,1227,114,1227)"
-							},
-							{
-								"content": "lowered.",
-								"span": {
-									"offset": 418,
-									"length": 8
-								},
-								"confidence": 0.984,
-								"source": "D(1,135,1213,181,1214,181,1227,134,1227)"
-							},
-							{
-								"content": "PLEASE",
-								"span": {
-									"offset": 428,
-									"length": 6
-								},
-								"confidence": 0.998,
-								"source": "D(1,30,1231,86,1232,86,1249,30,1248)"
-							},
-							{
-								"content": "DO",
-								"span": {
-									"offset": 435,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,90,1232,114,1233,114,1250,89,1250)"
-							},
-							{
-								"content": "NOT",
-								"span": {
-									"offset": 438,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,118,1233,152,1233,151,1251,117,1250)"
-							},
-							{
-								"content": "INTERRUPT",
-								"span": {
-									"offset": 442,
-									"length": 9
-								},
-								"confidence": 0.992,
-								"source": "D(1,155,1233,248,1235,248,1252,155,1251)"
-							},
-							{
-								"content": "THE",
-								"span": {
-									"offset": 452,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,30,1249,61,1249,60,1266,30,1266)"
-							},
-							{
-								"content": "MUSIC",
-								"span": {
-									"offset": 456,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,65,1249,113,1250,113,1267,64,1266)"
-							},
-							{
-								"content": "WITH",
-								"span": {
-									"offset": 462,
-									"length": 4
-								},
-								"confidence": 0.993,
-								"source": "D(1,120,1250,160,1251,160,1267,119,1267)"
-							},
-							{
-								"content": "APPLAUSE.",
-								"span": {
-									"offset": 467,
-									"length": 9
-								},
-								"confidence": 0.822,
-								"source": "D(1,164,1251,249,1252,249,1268,163,1267)"
-							},
-							{
-								"content": "MAY",
-								"span": {
-									"offset": 477,
-									"length": 3
-								},
-								"confidence": 0.997,
-								"source": "D(1,30,1273,53,1273,53,1287,30,1287)"
-							},
-							{
-								"content": "6,",
-								"span": {
-									"offset": 481,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,56,1273,64,1273,64,1287,56,1287)"
-							},
-							{
-								"content": "9,",
-								"span": {
-									"offset": 484,
-									"length": 2
-								},
-								"confidence": 0.989,
-								"source": "D(1,68,1273,75,1274,75,1287,67,1287)"
-							},
-							{
-								"content": "10,",
-								"span": {
-									"offset": 487,
-									"length": 3
-								},
-								"confidence": 0.912,
-								"source": "D(1,80,1274,90,1274,90,1288,79,1287)"
-							},
-							{
-								"content": "13,",
-								"span": {
-									"offset": 491,
-									"length": 3
-								},
-								"confidence": 0.963,
-								"source": "D(1,95,1274,106,1274,106,1288,94,1288)"
-							},
-							{
-								"content": "15,",
-								"span": {
-									"offset": 495,
-									"length": 3
-								},
-								"confidence": 0.989,
-								"source": "D(1,110,1274,122,1274,122,1288,110,1288)"
-							},
-							{
-								"content": "16,",
-								"span": {
-									"offset": 499,
-									"length": 3
-								},
-								"confidence": 0.894,
-								"source": "D(1,126,1274,138,1275,138,1288,126,1288)"
-							},
-							{
-								"content": "1981",
-								"span": {
-									"offset": 503,
-									"length": 4
-								},
-								"confidence": 0.95,
-								"source": "D(1,143,1275,163,1275,163,1288,143,1288)"
-							},
-							{
-								"content": "DON",
-								"span": {
-									"offset": 512,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,399,401,548,402,547,463,399,459)"
-							},
-							{
-								"content": "PASQUALE",
-								"span": {
-									"offset": 516,
-									"length": 8
-								},
-								"confidence": 0.996,
-								"source": "D(1,570,402,908,406,908,469,569,464)"
-							},
-							{
-								"content": "May",
-								"span": {
-									"offset": 526,
-									"length": 3
-								},
-								"confidence": 0.993,
-								"source": "D(1,363,495,407,496,407,521,362,520)"
-							},
-							{
-								"content": "6,",
-								"span": {
-									"offset": 530,
-									"length": 2
-								},
-								"confidence": 0.994,
-								"source": "D(1,415,496,431,496,431,521,414,521)"
-							},
-							{
-								"content": "9,",
-								"span": {
-									"offset": 533,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,438,496,455,496,455,522,438,521)"
-							},
-							{
-								"content": "10*,",
-								"span": {
-									"offset": 536,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,463,497,500,497,500,522,463,522)"
-							},
-							{
-								"content": "13,",
-								"span": {
-									"offset": 541,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,509,497,536,498,535,523,509,522)"
-							},
-							{
-								"content": "15*,",
-								"span": {
-									"offset": 545,
-									"length": 4
-								},
-								"confidence": 0.99,
-								"source": "D(1,545,498,581,498,581,523,544,523)"
-							},
-							{
-								"content": "16,",
-								"span": {
-									"offset": 550,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,590,498,616,499,616,523,590,523)"
-							},
-							{
-								"content": "1981",
-								"span": {
-									"offset": 554,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,625,499,671,499,671,524,625,523)"
-							},
-							{
-								"content": "Opera",
-								"span": {
-									"offset": 560,
-									"length": 5
-								},
-								"confidence": 0.998,
-								"source": "D(1,363,541,415,542,415,564,363,563)"
-							},
-							{
-								"content": "buffa",
-								"span": {
-									"offset": 566,
-									"length": 5
-								},
-								"confidence": 0.993,
-								"source": "D(1,419,542,458,542,458,564,419,564)"
-							},
-							{
-								"content": "in",
-								"span": {
-									"offset": 572,
-									"length": 2
-								},
-								"confidence": 0.999,
-								"source": "D(1,463,542,478,543,478,565,462,564)"
-							},
-							{
-								"content": "three",
-								"span": {
-									"offset": 575,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,483,543,527,543,527,566,482,565)"
-							},
-							{
-								"content": "acts",
-								"span": {
-									"offset": 581,
-									"length": 4
-								},
-								"confidence": 0.991,
-								"source": "D(1,532,543,565,544,565,566,531,566)"
-							},
-							{
-								"content": "by",
-								"span": {
-									"offset": 586,
-									"length": 2
-								},
-								"confidence": 0.999,
-								"source": "D(1,569,544,589,544,589,566,569,566)"
-							},
-							{
-								"content": "Donizetti;",
-								"span": {
-									"offset": 589,
-									"length": 10
-								},
-								"confidence": 0.989,
-								"source": "D(1,594,544,670,545,669,567,593,566)"
-							},
-							{
-								"content": "text",
-								"span": {
-									"offset": 600,
-									"length": 4
-								},
-								"confidence": 0.989,
-								"source": "D(1,674,545,706,546,705,568,674,567)"
-							},
-							{
-								"content": "by",
-								"span": {
-									"offset": 605,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,710,546,729,546,728,568,710,568)"
-							},
-							{
-								"content": "Ruffini",
-								"span": {
-									"offset": 608,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,733,546,785,547,785,569,733,568)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 616,
-									"length": 3
-								},
-								"confidence": 0.999,
-								"source": "D(1,789,547,818,548,818,570,789,569)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 620,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,822,548,848,548,848,570,822,570)"
-							},
-							{
-								"content": "composer.",
-								"span": {
-									"offset": 624,
-									"length": 9
-								},
-								"confidence": 0.993,
-								"source": "D(1,853,548,940,550,940,572,852,570)"
-							},
-							{
-								"content": "Premiered",
-								"span": {
-									"offset": 634,
-									"length": 9
-								},
-								"confidence": 0.992,
-								"source": "D(1,363,562,449,563,449,584,362,583)"
-							},
-							{
-								"content": "3",
-								"span": {
-									"offset": 644,
-									"length": 1
-								},
-								"confidence": 0.994,
-								"source": "D(1,454,563,463,563,463,585,454,584)"
-							},
-							{
-								"content": "January",
-								"span": {
-									"offset": 646,
-									"length": 7
-								},
-								"confidence": 0.99,
-								"source": "D(1,468,563,534,564,534,586,468,585)"
-							},
-							{
-								"content": "1843",
-								"span": {
-									"offset": 654,
-									"length": 4
-								},
-								"confidence": 0.985,
-								"source": "D(1,541,564,575,565,575,586,541,586)"
-							},
-							{
-								"content": "in",
-								"span": {
-									"offset": 659,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,579,565,597,565,597,587,579,586)"
-							},
-							{
-								"content": "Paris.",
-								"span": {
-									"offset": 662,
-									"length": 6
-								},
-								"confidence": 0.992,
-								"source": "D(1,603,565,647,566,647,587,602,587)"
-							},
-							{
-								"content": "English",
-								"span": {
-									"offset": 669,
-									"length": 7
-								},
-								"confidence": 0.994,
-								"source": "D(1,653,566,712,567,712,588,653,587)"
-							},
-							{
-								"content": "translation",
-								"span": {
-									"offset": 677,
-									"length": 11
-								},
-								"confidence": 0.993,
-								"source": "D(1,717,567,803,568,803,589,717,588)"
-							},
-							{
-								"content": "by",
-								"span": {
-									"offset": 689,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,808,568,828,568,827,589,808,589)"
-							},
-							{
-								"content": "Phyllis",
-								"span": {
-									"offset": 692,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,832,568,884,569,884,590,832,590)"
-							},
-							{
-								"content": "Mead,",
-								"span": {
-									"offset": 700,
-									"length": 5
-								},
-								"confidence": 0.992,
-								"source": "D(1,888,569,940,569,940,591,888,590)"
-							},
-							{
-								"content": "used",
-								"span": {
-									"offset": 706,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,363,583,402,583,402,604,363,604)"
-							},
-							{
-								"content": "by",
-								"span": {
-									"offset": 711,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,412,583,432,583,432,604,412,604)"
-							},
-							{
-								"content": "arrangement",
-								"span": {
-									"offset": 714,
-									"length": 11
-								},
-								"confidence": 0.993,
-								"source": "D(1,440,584,545,585,545,606,440,605)"
-							},
-							{
-								"content": "with",
-								"span": {
-									"offset": 726,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,553,585,588,585,588,606,553,606)"
-							},
-							{
-								"content": "Associated",
-								"span": {
-									"offset": 731,
-									"length": 10
-								},
-								"confidence": 0.993,
-								"source": "D(1,596,586,687,586,687,608,596,607)"
-							},
-							{
-								"content": "Music",
-								"span": {
-									"offset": 742,
-									"length": 5
-								},
-								"confidence": 0.994,
-								"source": "D(1,694,586,743,587,743,609,694,608)"
-							},
-							{
-								"content": "Publishers,",
-								"span": {
-									"offset": 748,
-									"length": 11
-								},
-								"confidence": 0.991,
-								"source": "D(1,753,587,841,588,841,610,752,609)"
-							},
-							{
-								"content": "Inc.,",
-								"span": {
-									"offset": 760,
-									"length": 5
-								},
-								"confidence": 0.992,
-								"source": "D(1,851,588,885,589,885,611,850,610)"
-							},
-							{
-								"content": "U.",
-								"span": {
-									"offset": 766,
-									"length": 2
-								},
-								"confidence": 0.995,
-								"source": "D(1,894,589,918,589,918,611,894,611)"
-							},
-							{
-								"content": "S.",
-								"span": {
-									"offset": 769,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,923,589,940,589,940,611,922,611)"
-							},
-							{
-								"content": "agents",
-								"span": {
-									"offset": 772,
-									"length": 6
-								},
-								"confidence": 0.996,
-								"source": "D(1,361,603,416,604,415,625,361,625)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 779,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,420,604,446,604,446,625,420,625)"
-							},
-							{
-								"content": "G.",
-								"span": {
-									"offset": 783,
-									"length": 2
-								},
-								"confidence": 0.987,
-								"source": "D(1,453,604,472,604,472,626,452,626)"
-							},
-							{
-								"content": "Ricordi",
-								"span": {
-									"offset": 786,
-									"length": 7
-								},
-								"confidence": 0.994,
-								"source": "D(1,480,604,538,605,538,627,479,626)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 794,
-									"length": 3
-								},
-								"confidence": 0.999,
-								"source": "D(1,545,605,575,605,575,627,544,627)"
-							},
-							{
-								"content": "Company,",
-								"span": {
-									"offset": 798,
-									"length": 8
-								},
-								"confidence": 0.995,
-								"source": "D(1,581,605,666,607,666,628,581,627)"
-							},
-							{
-								"content": "Milano.",
-								"span": {
-									"offset": 807,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,673,607,734,607,734,629,673,628)"
-							},
-							{
-								"content": "CAST",
-								"span": {
-									"offset": 820,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,430,680,503,681,503,707,430,706)"
-							},
-							{
-								"content": "IN",
-								"span": {
-									"offset": 825,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,511,681,539,681,538,708,511,707)"
-							},
-							{
-								"content": "ORDER",
-								"span": {
-									"offset": 828,
-									"length": 5
-								},
-								"confidence": 0.997,
-								"source": "D(1,547,681,638,682,638,709,547,708)"
-							},
-							{
-								"content": "OF",
-								"span": {
-									"offset": 834,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,647,682,683,683,683,709,646,709)"
-							},
-							{
-								"content": "APPEARANCE",
-								"span": {
-									"offset": 837,
-									"length": 10
-								},
-								"confidence": 0.992,
-								"source": "D(1,692,683,870,685,870,712,691,709)"
-							},
-							{
-								"content": "Don",
-								"span": {
-									"offset": 849,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,394,748,426,749,426,770,393,770)"
-							},
-							{
-								"content": "Pasquale",
-								"span": {
-									"offset": 853,
-									"length": 8
-								},
-								"confidence": 0.995,
-								"source": "D(1,431,749,500,749,500,771,430,770)"
-							},
-							{
-								"content": "SIR",
-								"span": {
-									"offset": 862,
-									"length": 3
-								},
-								"confidence": 0.994,
-								"source": "D(1,521,750,547,750,547,772,520,772)"
-							},
-							{
-								"content": "GERAINT",
-								"span": {
-									"offset": 866,
-									"length": 7
-								},
-								"confidence": 0.995,
-								"source": "D(1,553,750,631,751,631,773,553,772)"
-							},
-							{
-								"content": "EVANS/ARCHIE",
-								"span": {
-									"offset": 874,
-									"length": 12
-								},
-								"confidence": 0.992,
-								"source": "D(1,636,751,767,752,767,774,636,773)"
-							},
-							{
-								"content": "DRAKE*",
-								"span": {
-									"offset": 887,
-									"length": 6
-								},
-								"confidence": 0.992,
-								"source": "D(1,774,752,843,753,843,775,773,774)"
-							},
-							{
-								"content": "Dr.",
-								"span": {
-									"offset": 894,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,395,782,420,783,420,803,395,803)"
-							},
-							{
-								"content": "Malatesta",
-								"span": {
-									"offset": 898,
-									"length": 9
-								},
-								"confidence": 0.995,
-								"source": "D(1,427,783,500,783,500,805,426,804)"
-							},
-							{
-								"content": "MARIO",
-								"span": {
-									"offset": 908,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,519,783,578,784,578,805,519,805)"
-							},
-							{
-								"content": "D'ANNA}/ERICH",
-								"span": {
-									"offset": 914,
-									"length": 13
-								},
-								"confidence": 0.572,
-								"source": "D(1,583,784,720,786,720,807,583,805)"
-							},
-							{
-								"content": "PARCE*",
-								"span": {
-									"offset": 928,
-									"length": 6
-								},
-								"confidence": 0.994,
-								"source": "D(1,727,786,794,786,794,808,726,807)"
-							},
-							{
-								"content": "Ernesto",
-								"span": {
-									"offset": 935,
-									"length": 7
-								},
-								"confidence": 0.997,
-								"source": "D(1,439,818,500,819,500,837,439,836)"
-							},
-							{
-								"content": "EDUARDO",
-								"span": {
-									"offset": 943,
-									"length": 7
-								},
-								"confidence": 0.997,
-								"source": "D(1,518,818,608,819,608,839,517,838)"
-							},
-							{
-								"content": "GIMENEZ+/WILLIAM",
-								"span": {
-									"offset": 951,
-									"length": 16
-								},
-								"confidence": 0.687,
-								"source": "D(1,613,819,782,820,782,841,613,839)"
-							},
-							{
-								"content": "LIVINGSTON*",
-								"span": {
-									"offset": 968,
-									"length": 11
-								},
-								"confidence": 0.989,
-								"source": "D(1,788,820,907,822,906,843,788,841)"
-							},
-							{
-								"content": "Norina",
-								"span": {
-									"offset": 980,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,445,852,500,853,500,870,445,869)"
-							},
-							{
-								"content": "CAROL",
-								"span": {
-									"offset": 987,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,516,852,579,852,579,873,516,872)"
-							},
-							{
-								"content": "WEBBER/JULI",
-								"span": {
-									"offset": 993,
-									"length": 11
-								},
-								"confidence": 0.976,
-								"source": "D(1,584,852,704,854,704,874,584,873)"
-							},
-							{
-								"content": "HOLLAND*t",
-								"span": {
-									"offset": 1005,
-									"length": 9
-								},
-								"confidence": 0.973,
-								"source": "D(1,710,854,816,856,816,877,709,875)"
-							},
-							{
-								"content": "A",
-								"span": {
-									"offset": 1016,
-									"length": 1
-								},
-								"confidence": 0.996,
-								"source": "D(1,426,884,440,884,440,904,425,904)"
-							},
-							{
-								"content": "Notary",
-								"span": {
-									"offset": 1018,
-									"length": 6
-								},
-								"confidence": 0.994,
-								"source": "D(1,446,885,498,885,498,905,445,904)"
-							},
-							{
-								"content": "BOYD",
-								"span": {
-									"offset": 1025,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,518,885,569,886,569,906,518,906)"
-							},
-							{
-								"content": "SCHLAEFERt",
-								"span": {
-									"offset": 1030,
-									"length": 10
-								},
-								"confidence": 0.795,
-								"source": "D(1,575,886,688,888,688,908,575,906)"
-							},
-							{
-								"content": "+Seattle",
-								"span": {
-									"offset": 1042,
-									"length": 8
-								},
-								"confidence": 0.573,
-								"source": "D(1,583,934,633,935,633,952,583,951)"
-							},
-							{
-								"content": "Opera",
-								"span": {
-									"offset": 1051,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,638,936,676,936,676,953,638,952)"
-							},
-							{
-								"content": "debut",
-								"span": {
-									"offset": 1057,
-									"length": 5
-								},
-								"confidence": 0.989,
-								"source": "D(1,681,936,717,937,717,954,680,953)"
-							},
-							{
-								"content": "*Opera-in-English",
-								"span": {
-									"offset": 1063,
-									"length": 17
-								},
-								"confidence": 0.913,
-								"source": "D(1,597,950,704,952,704,969,597,967)"
-							},
-							{
-								"content": "We",
-								"span": {
-									"offset": 1082,
-									"length": 2
-								},
-								"confidence": 0.973,
-								"source": "D(1,346,1027,367,1028,366,1044,345,1044)"
-							},
-							{
-								"content": "wish",
-								"span": {
-									"offset": 1085,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,370,1028,400,1028,399,1045,370,1044)"
-							},
-							{
-								"content": "to",
-								"span": {
-									"offset": 1090,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,403,1028,418,1028,418,1045,403,1045)"
-							},
-							{
-								"content": "thank",
-								"span": {
-									"offset": 1093,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,422,1028,459,1029,459,1045,421,1045)"
-							},
-							{
-								"content": "these",
-								"span": {
-									"offset": 1099,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,463,1029,496,1029,496,1046,462,1046)"
-							},
-							{
-								"content": "significant",
-								"span": {
-									"offset": 1105,
-									"length": 11
-								},
-								"confidence": 0.992,
-								"source": "D(1,500,1029,567,1030,567,1047,499,1046)"
-							},
-							{
-								"content": "contributors",
-								"span": {
-									"offset": 1117,
-									"length": 12
-								},
-								"confidence": 0.992,
-								"source": "D(1,571,1030,652,1031,651,1048,570,1047)"
-							},
-							{
-								"content": "to",
-								"span": {
-									"offset": 1130,
-									"length": 2
-								},
-								"confidence": 0.997,
-								"source": "D(1,655,1031,668,1032,668,1049,655,1048)"
-							},
-							{
-								"content": "this",
-								"span": {
-									"offset": 1133,
-									"length": 4
-								},
-								"confidence": 0.993,
-								"source": "D(1,672,1032,695,1032,695,1049,671,1049)"
-							},
-							{
-								"content": "Don",
-								"span": {
-									"offset": 1138,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,698,1032,723,1032,722,1049,698,1049)"
-							},
-							{
-								"content": "Pasquale",
-								"span": {
-									"offset": 1142,
-									"length": 8
-								},
-								"confidence": 0.887,
-								"source": "D(1,726,1032,779,1033,779,1050,726,1049)"
-							},
-							{
-								"content": "presentation:",
-								"span": {
-									"offset": 1151,
-									"length": 13
-								},
-								"confidence": 0.977,
-								"source": "D(1,783,1033,869,1034,869,1051,782,1050)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1165,
-									"length": 3
-								},
-								"confidence": 0.992,
-								"source": "D(1,872,1034,895,1034,894,1051,872,1051)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1169,
-									"length": 3
-								},
-								"confidence": 0.997,
-								"source": "D(1,898,1034,925,1035,925,1052,898,1051)"
-							},
-							{
-								"content": "Mrs.",
-								"span": {
-									"offset": 1173,
-									"length": 4
-								},
-								"confidence": 0.987,
-								"source": "D(1,345,1043,374,1044,374,1060,344,1059)"
-							},
-							{
-								"content": "Howard",
-								"span": {
-									"offset": 1178,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,377,1044,431,1044,431,1060,377,1060)"
-							},
-							{
-								"content": "S.",
-								"span": {
-									"offset": 1185,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,434,1044,447,1044,447,1060,434,1060)"
-							},
-							{
-								"content": "Wright,",
-								"span": {
-									"offset": 1188,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,451,1044,500,1045,500,1061,451,1061)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1196,
-									"length": 3
-								},
-								"confidence": 0.753,
-								"source": "D(1,503,1045,526,1045,526,1062,503,1061)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1200,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,530,1045,552,1046,551,1062,529,1062)"
-							},
-							{
-								"content": "Mrs.",
-								"span": {
-									"offset": 1204,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,555,1046,586,1046,586,1062,555,1062)"
-							},
-							{
-								"content": "Winston",
-								"span": {
-									"offset": 1209,
-									"length": 7
-								},
-								"confidence": 0.995,
-								"source": "D(1,590,1046,645,1047,645,1063,589,1062)"
-							},
-							{
-								"content": "Scott,",
-								"span": {
-									"offset": 1217,
-									"length": 6
-								},
-								"confidence": 0.991,
-								"source": "D(1,648,1047,687,1048,687,1064,648,1063)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1224,
-									"length": 3
-								},
-								"confidence": 0.963,
-								"source": "D(1,690,1048,713,1048,713,1064,690,1064)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1228,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,717,1048,739,1048,738,1064,716,1064)"
-							},
-							{
-								"content": "Mrs.",
-								"span": {
-									"offset": 1232,
-									"length": 4
-								},
-								"confidence": 0.963,
-								"source": "D(1,742,1048,771,1049,771,1065,742,1064)"
-							},
-							{
-								"content": "N.",
-								"span": {
-									"offset": 1237,
-									"length": 2
-								},
-								"confidence": 0.99,
-								"source": "D(1,775,1049,790,1049,790,1065,774,1065)"
-							},
-							{
-								"content": "Stewart",
-								"span": {
-									"offset": 1240,
-									"length": 7
-								},
-								"confidence": 0.994,
-								"source": "D(1,794,1049,843,1050,843,1066,793,1065)"
-							},
-							{
-								"content": "Rogers,",
-								"span": {
-									"offset": 1248,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,846,1050,895,1050,895,1067,846,1066)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1256,
-									"length": 3
-								},
-								"confidence": 0.973,
-								"source": "D(1,898,1050,924,1051,924,1067,898,1067)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1260,
-									"length": 3
-								},
-								"confidence": 0.993,
-								"source": "D(1,345,1059,368,1059,368,1075,344,1075)"
-							},
-							{
-								"content": "Mrs.",
-								"span": {
-									"offset": 1264,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,372,1059,403,1059,403,1075,371,1075)"
-							},
-							{
-								"content": "James",
-								"span": {
-									"offset": 1269,
-									"length": 5
-								},
-								"confidence": 0.992,
-								"source": "D(1,406,1059,448,1060,448,1076,406,1075)"
-							},
-							{
-								"content": "C.",
-								"span": {
-									"offset": 1275,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,452,1060,464,1060,464,1076,451,1076)"
-							},
-							{
-								"content": "McCurdy,",
-								"span": {
-									"offset": 1278,
-									"length": 8
-								},
-								"confidence": 0.984,
-								"source": "D(1,467,1060,534,1061,533,1077,467,1076)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1287,
-									"length": 3
-								},
-								"confidence": 0.981,
-								"source": "D(1,537,1061,560,1061,560,1077,537,1077)"
-							},
-							{
-								"content": "John",
-								"span": {
-									"offset": 1291,
-									"length": 4
-								},
-								"confidence": 0.983,
-								"source": "D(1,563,1061,595,1061,594,1078,563,1078)"
-							},
-							{
-								"content": "Graham,",
-								"span": {
-									"offset": 1296,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,599,1061,654,1062,654,1079,599,1078)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1304,
-									"length": 3
-								},
-								"confidence": 0.935,
-								"source": "D(1,657,1062,680,1063,679,1079,657,1079)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1308,
-									"length": 3
-								},
-								"confidence": 0.993,
-								"source": "D(1,683,1063,706,1063,706,1079,683,1079)"
-							},
-							{
-								"content": "Mrs.",
-								"span": {
-									"offset": 1312,
-									"length": 4
-								},
-								"confidence": 0.986,
-								"source": "D(1,710,1063,739,1063,739,1080,709,1079)"
-							},
-							{
-								"content": "Stanley",
-								"span": {
-									"offset": 1317,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,742,1063,791,1064,791,1081,742,1080)"
-							},
-							{
-								"content": "Golub,",
-								"span": {
-									"offset": 1325,
-									"length": 6
-								},
-								"confidence": 0.989,
-								"source": "D(1,794,1064,836,1064,836,1081,794,1081)"
-							},
-							{
-								"content": "Mr.",
-								"span": {
-									"offset": 1332,
-									"length": 3
-								},
-								"confidence": 0.992,
-								"source": "D(1,840,1065,863,1065,863,1081,839,1081)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1336,
-									"length": 3
-								},
-								"confidence": 0.993,
-								"source": "D(1,866,1065,888,1065,888,1082,866,1081)"
-							},
-							{
-								"content": "Mrs.",
-								"span": {
-									"offset": 1340,
-									"length": 4
-								},
-								"confidence": 0.977,
-								"source": "D(1,891,1065,924,1066,924,1082,891,1082)"
-							},
-							{
-								"content": "Roger",
-								"span": {
-									"offset": 1345,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,344,1074,386,1074,386,1090,344,1090)"
-							},
-							{
-								"content": "E.",
-								"span": {
-									"offset": 1351,
-									"length": 2
-								},
-								"confidence": 0.993,
-								"source": "D(1,390,1075,403,1075,403,1090,390,1090)"
-							},
-							{
-								"content": "Forbes",
-								"span": {
-									"offset": 1354,
-									"length": 6
-								},
-								"confidence": 0.992,
-								"source": "D(1,408,1075,454,1075,454,1091,408,1091)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1361,
-									"length": 3
-								},
-								"confidence": 0.997,
-								"source": "D(1,458,1075,483,1076,483,1092,458,1091)"
-							},
-							{
-								"content": "Anonymous.",
-								"span": {
-									"offset": 1365,
-									"length": 10
-								},
-								"confidence": 0.992,
-								"source": "D(1,488,1076,572,1077,572,1093,487,1092)"
-							},
-							{
-								"content": "The",
-								"span": {
-									"offset": 1377,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,344,1098,370,1098,370,1115,344,1115)"
-							},
-							{
-								"content": "Opera-in-English",
-								"span": {
-									"offset": 1381,
-									"length": 16
-								},
-								"confidence": 0.989,
-								"source": "D(1,375,1098,486,1100,486,1117,375,1115)"
-							},
-							{
-								"content": "Series",
-								"span": {
-									"offset": 1398,
-									"length": 6
-								},
-								"confidence": 0.995,
-								"source": "D(1,491,1100,531,1101,531,1118,490,1117)"
-							},
-							{
-								"content": "performances",
-								"span": {
-									"offset": 1405,
-									"length": 12
-								},
-								"confidence": 0.993,
-								"source": "D(1,536,1101,627,1103,627,1119,535,1118)"
-							},
-							{
-								"content": "are",
-								"span": {
-									"offset": 1418,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,632,1103,653,1103,653,1120,631,1119)"
-							},
-							{
-								"content": "a",
-								"span": {
-									"offset": 1422,
-									"length": 1
-								},
-								"confidence": 0.994,
-								"source": "D(1,657,1103,665,1103,665,1120,657,1120)"
-							},
-							{
-								"content": "project",
-								"span": {
-									"offset": 1424,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,669,1103,717,1104,717,1121,669,1120)"
-							},
-							{
-								"content": "supported",
-								"span": {
-									"offset": 1432,
-									"length": 9
-								},
-								"confidence": 0.995,
-								"source": "D(1,722,1104,789,1105,789,1122,721,1121)"
-							},
-							{
-								"content": "by",
-								"span": {
-									"offset": 1442,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,794,1105,810,1105,809,1122,793,1122)"
-							},
-							{
-								"content": "a",
-								"span": {
-									"offset": 1445,
-									"length": 1
-								},
-								"confidence": 0.995,
-								"source": "D(1,814,1105,821,1105,821,1122,813,1122)"
-							},
-							{
-								"content": "grant",
-								"span": {
-									"offset": 1447,
-									"length": 5
-								},
-								"confidence": 0.993,
-								"source": "D(1,825,1106,859,1106,859,1123,824,1123)"
-							},
-							{
-								"content": "from",
-								"span": {
-									"offset": 1453,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,864,1106,894,1106,894,1124,863,1123)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1458,
-									"length": 3
-								},
-								"confidence": 0.992,
-								"source": "D(1,899,1106,922,1107,922,1124,898,1124)"
-							},
-							{
-								"content": "National",
-								"span": {
-									"offset": 1462,
-									"length": 8
-								},
-								"confidence": 0.992,
-								"source": "D(1,343,1113,400,1114,400,1131,343,1130)"
-							},
-							{
-								"content": "Endowment",
-								"span": {
-									"offset": 1471,
-									"length": 9
-								},
-								"confidence": 0.992,
-								"source": "D(1,406,1114,483,1116,483,1132,405,1131)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 1481,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,488,1116,507,1116,507,1132,487,1132)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1485,
-									"length": 3
-								},
-								"confidence": 0.999,
-								"source": "D(1,511,1116,532,1116,532,1133,511,1132)"
-							},
-							{
-								"content": "Arts",
-								"span": {
-									"offset": 1489,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,537,1116,565,1117,564,1133,536,1133)"
-							},
-							{
-								"content": "in",
-								"span": {
-									"offset": 1494,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,568,1117,583,1117,583,1134,568,1134)"
-							},
-							{
-								"content": "Washington,",
-								"span": {
-									"offset": 1497,
-									"length": 11
-								},
-								"confidence": 0.992,
-								"source": "D(1,587,1117,670,1119,670,1135,587,1134)"
-							},
-							{
-								"content": "D.C.,",
-								"span": {
-									"offset": 1509,
-									"length": 5
-								},
-								"confidence": 0.992,
-								"source": "D(1,675,1119,709,1119,709,1136,674,1135)"
-							},
-							{
-								"content": "a",
-								"span": {
-									"offset": 1515,
-									"length": 1
-								},
-								"confidence": 0.994,
-								"source": "D(1,713,1119,721,1119,721,1136,713,1136)"
-							},
-							{
-								"content": "Federal",
-								"span": {
-									"offset": 1517,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,725,1119,775,1120,775,1137,725,1136)"
-							},
-							{
-								"content": "Agency.",
-								"span": {
-									"offset": 1525,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,781,1120,834,1121,834,1138,780,1137)"
-							},
-							{
-								"content": "The",
-								"span": {
-									"offset": 1534,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,343,1135,369,1135,369,1152,343,1151)"
-							},
-							{
-								"content": "Artist-in-Residence",
-								"span": {
-									"offset": 1538,
-									"length": 19
-								},
-								"confidence": 0.983,
-								"source": "D(1,377,1135,503,1138,503,1154,376,1152)"
-							},
-							{
-								"content": "Program",
-								"span": {
-									"offset": 1558,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,510,1138,567,1139,567,1155,510,1154)"
-							},
-							{
-								"content": "is",
-								"span": {
-									"offset": 1566,
-									"length": 2
-								},
-								"confidence": 0.995,
-								"source": "D(1,574,1139,585,1139,584,1156,574,1155)"
-							},
-							{
-								"content": "jointly",
-								"span": {
-									"offset": 1569,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,591,1139,632,1140,632,1157,590,1156)"
-							},
-							{
-								"content": "supported",
-								"span": {
-									"offset": 1577,
-									"length": 9
-								},
-								"confidence": 0.993,
-								"source": "D(1,639,1140,707,1141,707,1158,639,1157)"
-							},
-							{
-								"content": "by",
-								"span": {
-									"offset": 1587,
-									"length": 2
-								},
-								"confidence": 0.988,
-								"source": "D(1,714,1141,730,1141,730,1158,714,1158)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1590,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,736,1141,757,1141,757,1159,736,1158)"
-							},
-							{
-								"content": "Washington",
-								"span": {
-									"offset": 1594,
-									"length": 10
-								},
-								"confidence": 0.992,
-								"source": "D(1,764,1141,843,1143,843,1160,764,1159)"
-							},
-							{
-								"content": "State",
-								"span": {
-									"offset": 1605,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,849,1143,884,1143,883,1161,849,1160)"
-							},
-							{
-								"content": "Arts",
-								"span": {
-									"offset": 1611,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,890,1143,920,1144,920,1161,889,1161)"
-							},
-							{
-								"content": "Commission",
-								"span": {
-									"offset": 1616,
-									"length": 10
-								},
-								"confidence": 0.992,
-								"source": "D(1,343,1151,425,1152,425,1168,342,1167)"
-							},
-							{
-								"content": "and",
-								"span": {
-									"offset": 1627,
-									"length": 3
-								},
-								"confidence": 0.993,
-								"source": "D(1,430,1152,454,1152,454,1169,430,1168)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1631,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,460,1152,480,1153,480,1169,459,1169)"
-							},
-							{
-								"content": "National",
-								"span": {
-									"offset": 1635,
-									"length": 8
-								},
-								"confidence": 0.992,
-								"source": "D(1,485,1153,541,1154,541,1170,484,1169)"
-							},
-							{
-								"content": "Endowment",
-								"span": {
-									"offset": 1644,
-									"length": 9
-								},
-								"confidence": 0.993,
-								"source": "D(1,546,1154,624,1155,624,1171,545,1170)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 1654,
-									"length": 3
-								},
-								"confidence": 0.998,
-								"source": "D(1,629,1155,648,1155,647,1171,628,1171)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1658,
-									"length": 3
-								},
-								"confidence": 0.999,
-								"source": "D(1,653,1156,673,1156,673,1172,652,1171)"
-							},
-							{
-								"content": "Arts.",
-								"span": {
-									"offset": 1662,
-									"length": 5
-								},
-								"confidence": 0.933,
-								"source": "D(1,678,1156,712,1156,712,1172,677,1172)"
-							},
-							{
-								"content": "We",
-								"span": {
-									"offset": 1669,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,342,1172,363,1172,363,1189,341,1188)"
-							},
-							{
-								"content": "wish",
-								"span": {
-									"offset": 1672,
-									"length": 4
-								},
-								"confidence": 0.988,
-								"source": "D(1,366,1172,396,1173,396,1189,366,1189)"
-							},
-							{
-								"content": "to",
-								"span": {
-									"offset": 1677,
-									"length": 2
-								},
-								"confidence": 0.998,
-								"source": "D(1,400,1173,412,1173,411,1190,399,1190)"
-							},
-							{
-								"content": "thank",
-								"span": {
-									"offset": 1680,
-									"length": 5
-								},
-								"confidence": 0.997,
-								"source": "D(1,415,1173,453,1174,453,1190,415,1190)"
-							},
-							{
-								"content": "PONCHO",
-								"span": {
-									"offset": 1686,
-									"length": 6
-								},
-								"confidence": 0.998,
-								"source": "D(1,456,1174,521,1175,521,1192,456,1191)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 1693,
-									"length": 3
-								},
-								"confidence": 0.994,
-								"source": "D(1,525,1175,544,1175,544,1192,525,1192)"
-							},
-							{
-								"content": "a",
-								"span": {
-									"offset": 1697,
-									"length": 1
-								},
-								"confidence": 0.993,
-								"source": "D(1,547,1175,553,1176,553,1192,547,1192)"
-							},
-							{
-								"content": "major",
-								"span": {
-									"offset": 1699,
-									"length": 5
-								},
-								"confidence": 0.992,
-								"source": "D(1,556,1176,594,1176,594,1193,556,1192)"
-							},
-							{
-								"content": "grant",
-								"span": {
-									"offset": 1705,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,597,1176,631,1177,630,1194,597,1193)"
-							},
-							{
-								"content": "to",
-								"span": {
-									"offset": 1711,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,634,1177,646,1177,646,1194,634,1194)"
-							},
-							{
-								"content": "help",
-								"span": {
-									"offset": 1714,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,649,1177,677,1178,677,1195,649,1194)"
-							},
-							{
-								"content": "meet",
-								"span": {
-									"offset": 1719,
-									"length": 4
-								},
-								"confidence": 0.992,
-								"source": "D(1,681,1178,713,1178,712,1195,680,1195)"
-							},
-							{
-								"content": "requirements",
-								"span": {
-									"offset": 1724,
-									"length": 12
-								},
-								"confidence": 0.992,
-								"source": "D(1,716,1178,803,1180,802,1197,716,1195)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 1737,
-									"length": 3
-								},
-								"confidence": 0.997,
-								"source": "D(1,806,1180,824,1180,823,1197,806,1197)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1741,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,827,1180,849,1180,849,1198,827,1197)"
-							},
-							{
-								"content": "Challenge",
-								"span": {
-									"offset": 1745,
-									"length": 9
-								},
-								"confidence": 0.995,
-								"source": "D(1,853,1180,920,1182,920,1199,852,1198)"
-							},
-							{
-								"content": "Grant",
-								"span": {
-									"offset": 1755,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,342,1188,382,1189,382,1205,342,1204)"
-							},
-							{
-								"content": "from",
-								"span": {
-									"offset": 1761,
-									"length": 4
-								},
-								"confidence": 0.989,
-								"source": "D(1,387,1189,418,1189,418,1205,387,1205)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1766,
-									"length": 3
-								},
-								"confidence": 0.999,
-								"source": "D(1,422,1189,444,1189,443,1205,422,1205)"
-							},
-							{
-								"content": "National",
-								"span": {
-									"offset": 1770,
-									"length": 8
-								},
-								"confidence": 0.994,
-								"source": "D(1,448,1190,504,1191,504,1207,448,1206)"
-							},
-							{
-								"content": "Endowment",
-								"span": {
-									"offset": 1779,
-									"length": 9
-								},
-								"confidence": 0.993,
-								"source": "D(1,510,1191,587,1192,587,1207,509,1207)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 1789,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,592,1192,611,1192,611,1208,592,1208)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1793,
-									"length": 3
-								},
-								"confidence": 0.996,
-								"source": "D(1,616,1192,637,1193,637,1208,615,1208)"
-							},
-							{
-								"content": "Arts.",
-								"span": {
-									"offset": 1797,
-									"length": 5
-								},
-								"confidence": 0.994,
-								"source": "D(1,641,1193,675,1193,675,1209,641,1208)"
-							},
-							{
-								"content": "Puget",
-								"span": {
-									"offset": 1804,
-									"length": 5
-								},
-								"confidence": 0.995,
-								"source": "D(1,341,1209,379,1210,379,1227,341,1227)"
-							},
-							{
-								"content": "Sound",
-								"span": {
-									"offset": 1810,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,382,1210,422,1211,422,1228,382,1227)"
-							},
-							{
-								"content": "Business",
-								"span": {
-									"offset": 1816,
-									"length": 8
-								},
-								"confidence": 0.992,
-								"source": "D(1,426,1211,484,1212,483,1229,425,1228)"
-							},
-							{
-								"content": "supports",
-								"span": {
-									"offset": 1825,
-									"length": 8
-								},
-								"confidence": 0.992,
-								"source": "D(1,487,1212,545,1212,545,1230,487,1229)"
-							},
-							{
-								"content": "Seattle",
-								"span": {
-									"offset": 1834,
-									"length": 7
-								},
-								"confidence": 0.993,
-								"source": "D(1,549,1212,593,1213,592,1231,548,1230)"
-							},
-							{
-								"content": "Opera",
-								"span": {
-									"offset": 1842,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,596,1213,636,1214,635,1231,596,1231)"
-							},
-							{
-								"content": "through",
-								"span": {
-									"offset": 1848,
-									"length": 7
-								},
-								"confidence": 0.994,
-								"source": "D(1,639,1214,692,1215,692,1232,639,1231)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1856,
-									"length": 3
-								},
-								"confidence": 0.993,
-								"source": "D(1,695,1215,715,1215,715,1232,695,1232)"
-							},
-							{
-								"content": "Corporate",
-								"span": {
-									"offset": 1860,
-									"length": 9
-								},
-								"confidence": 0.992,
-								"source": "D(1,719,1215,785,1216,784,1233,718,1233)"
-							},
-							{
-								"content": "Council",
-								"span": {
-									"offset": 1870,
-									"length": 7
-								},
-								"confidence": 0.992,
-								"source": "D(1,788,1216,836,1217,835,1234,788,1233)"
-							},
-							{
-								"content": "for",
-								"span": {
-									"offset": 1878,
-									"length": 3
-								},
-								"confidence": 0.995,
-								"source": "D(1,839,1217,857,1217,857,1234,839,1234)"
-							},
-							{
-								"content": "the",
-								"span": {
-									"offset": 1882,
-									"length": 3
-								},
-								"confidence": 0.994,
-								"source": "D(1,861,1217,881,1217,881,1235,860,1235)"
-							},
-							{
-								"content": "Arts.",
-								"span": {
-									"offset": 1886,
-									"length": 5
-								},
-								"confidence": 0.992,
-								"source": "D(1,885,1217,919,1218,918,1235,884,1235)"
-							},
-							{
-								"content": "Seattle",
-								"span": {
-									"offset": 1893,
-									"length": 7
-								},
-								"confidence": 0.959,
-								"source": "D(1,341,1253,390,1254,389,1273,341,1272)"
-							},
-							{
-								"content": "Opera",
-								"span": {
-									"offset": 1901,
-									"length": 5
-								},
-								"confidence": 0.996,
-								"source": "D(1,396,1254,437,1255,436,1273,395,1273)"
-							},
-							{
-								"content": "is",
-								"span": {
-									"offset": 1907,
-									"length": 2
-								},
-								"confidence": 0.994,
-								"source": "D(1,440,1255,453,1255,453,1274,440,1274)"
-							},
-							{
-								"content": "a",
-								"span": {
-									"offset": 1910,
-									"length": 1
-								},
-								"confidence": 0.996,
-								"source": "D(1,459,1255,467,1255,467,1274,458,1274)"
-							},
-							{
-								"content": "member",
-								"span": {
-									"offset": 1912,
-									"length": 6
-								},
-								"confidence": 0.994,
-								"source": "D(1,472,1255,528,1256,528,1275,472,1274)"
-							},
-							{
-								"content": "of",
-								"span": {
-									"offset": 1919,
-									"length": 2
-								},
-								"confidence": 0.992,
-								"source": "D(1,532,1256,547,1257,547,1275,532,1275)"
-							},
-							{
-								"content": "OPERA",
-								"span": {
-									"offset": 1922,
-									"length": 5
-								},
-								"confidence": 0.998,
-								"source": "D(1,552,1257,603,1257,603,1276,551,1275)"
-							},
-							{
-								"content": "America.",
-								"span": {
-									"offset": 1928,
-									"length": 8
-								},
-								"confidence": 0.992,
-								"source": "D(1,609,1257,671,1259,671,1277,608,1276)"
-							},
-							{
-								"content": "13",
-								"span": {
-									"offset": 1955,
-									"length": 2
-								},
-								"confidence": 0.954,
-								"source": "D(1,938,1286,951,1286,951,1297,938,1297)"
-							}
-						],
-						"lines": [
-							{
-								"content": "Conductor",
-								"source": "D(1,44,517,121,518,120,536,43,536)",
-								"span": {
-									"offset": 0,
-									"length": 9
-								}
-							},
-							{
-								"content": "HENRY HOLT",
-								"source": "D(1,42,535,153,536,153,555,42,555)",
-								"span": {
-									"offset": 10,
-									"length": 10
-								}
-							},
-							{
-								"content": "English Series Conductor",
-								"source": "D(1,42,573,228,575,228,594,42,592)",
-								"span": {
-									"offset": 22,
-									"length": 24
-								}
-							},
-							{
-								"content": "ROGER CANTRELL",
-								"source": "D(1,41,591,196,593,196,612,41,610)",
-								"span": {
-									"offset": 47,
-									"length": 14
-								}
-							},
-							{
-								"content": "Stage Director",
-								"source": "D(1,41,629,147,630,147,649,40,648)",
-								"span": {
-									"offset": 63,
-									"length": 14
-								}
-							},
-							{
-								"content": "LINCOLN CLARK",
-								"source": "D(1,40,647,180,648,180,667,40,666)",
-								"span": {
-									"offset": 78,
-									"length": 13
-								}
-							},
-							{
-								"content": "Scenic Designer",
-								"source": "D(1,40,684,156,686,156,705,39,703)",
-								"span": {
-									"offset": 93,
-									"length": 15
-								}
-							},
-							{
-								"content": "ROBERT O'HEARN",
-								"source": "D(1,39,702,189,703,188,723,39,722)",
-								"span": {
-									"offset": 109,
-									"length": 14
-								}
-							},
-							{
-								"content": "The Greater Miami Opera Ass'n",
-								"source": "D(1,56,722,280,724,280,744,55,742)",
-								"span": {
-									"offset": 124,
-									"length": 29
-								}
-							},
-							{
-								"content": "Costumes",
-								"source": "D(1,39,759,111,761,111,778,39,777)",
-								"span": {
-									"offset": 155,
-									"length": 8
-								}
-							},
-							{
-								"content": "SUZANNE MESS, Malabar Ltd.",
-								"source": "D(1,38,777,274,779,274,800,38,797)",
-								"span": {
-									"offset": 164,
-									"length": 26
-								}
-							},
-							{
-								"content": "Lighting Designer",
-								"source": "D(1,38,819,165,820,165,840,37,838)",
-								"span": {
-									"offset": 192,
-									"length": 17
-								}
-							},
-							{
-								"content": "E. DEE TORREY",
-								"source": "D(1,38,837,165,838,165,858,37,856)",
-								"span": {
-									"offset": 210,
-									"length": 13
-								}
-							},
-							{
-								"content": "Choral Preparation",
-								"source": "D(1,37,870,179,872,178,892,37,890)",
-								"span": {
-									"offset": 225,
-									"length": 18
-								}
-							},
-							{
-								"content": "HANS WOLF",
-								"source": "D(1,36,889,139,890,139,908,36,908)",
-								"span": {
-									"offset": 244,
-									"length": 9
-								}
-							},
-							{
-								"content": "Wigs and Hairstyles",
-								"source": "D(1,37,926,183,928,182,948,36,946)",
-								"span": {
-									"offset": 255,
-									"length": 19
-								}
-							},
-							{
-								"content": "WAYNE GEROU",
-								"source": "D(1,36,944,166,946,165,965,36,963)",
-								"span": {
-									"offset": 275,
-									"length": 11
-								}
-							},
-							{
-								"content": "Make-up Artist",
-								"source": "D(1,34,982,144,983,144,1002,34,1001)",
-								"span": {
-									"offset": 288,
-									"length": 14
-								}
-							},
-							{
-								"content": "BARBARA MURPHY YORK",
-								"source": "D(1,35,1000,250,1003,249,1022,35,1020)",
-								"span": {
-									"offset": 303,
-									"length": 19
-								}
-							},
-							{
-								"content": "Final Curtain approximately 10:45 pm",
-								"source": "D(1,31,1184,230,1187,230,1202,31,1199)",
-								"span": {
-									"offset": 324,
-									"length": 36
-								}
-							},
-							{
-								"content": "Latecomers will not be seated after",
-								"source": "D(1,31,1198,216,1201,216,1214,31,1212)",
-								"span": {
-									"offset": 361,
-									"length": 35
-								}
-							},
-							{
-								"content": "the house lights are lowered.",
-								"source": "D(1,32,1212,180,1214,180,1228,31,1226)",
-								"span": {
-									"offset": 397,
-									"length": 29
-								}
-							},
-							{
-								"content": "PLEASE DO NOT INTERRUPT",
-								"source": "D(1,30,1231,247,1235,247,1252,30,1248)",
-								"span": {
-									"offset": 428,
-									"length": 23
-								}
-							},
-							{
-								"content": "THE MUSIC WITH APPLAUSE.",
-								"source": "D(1,30,1249,249,1252,249,1268,30,1265)",
-								"span": {
-									"offset": 452,
-									"length": 24
-								}
-							},
-							{
-								"content": "MAY 6, 9, 10, 13, 15, 16, 1981",
-								"source": "D(1,30,1273,163,1275,163,1289,30,1286)",
-								"span": {
-									"offset": 477,
-									"length": 30
-								}
-							},
-							{
-								"content": "DON PASQUALE",
-								"source": "D(1,399,400,908,406,907,468,399,462)",
-								"span": {
-									"offset": 512,
-									"length": 12
-								}
-							},
-							{
-								"content": "May 6, 9, 10*, 13, 15*, 16, 1981",
-								"source": "D(1,363,495,670,499,670,524,362,520)",
-								"span": {
-									"offset": 526,
-									"length": 32
-								}
-							},
-							{
-								"content": "Opera buffa in three acts by Donizetti; text by Ruffini and the composer.",
-								"source": "D(1,363,541,939,549,939,571,363,563)",
-								"span": {
-									"offset": 560,
-									"length": 73
-								}
-							},
-							{
-								"content": "Premiered 3 January 1843 in Paris. English translation by Phyllis Mead,",
-								"source": "D(1,363,561,939,569,939,591,362,583)",
-								"span": {
-									"offset": 634,
-									"length": 71
-								}
-							},
-							{
-								"content": "used by arrangement with Associated Music Publishers, Inc., U. S.",
-								"source": "D(1,363,583,939,589,939,611,362,605)",
-								"span": {
-									"offset": 706,
-									"length": 65
-								}
-							},
-							{
-								"content": "agents for G. Ricordi and Company, Milano.",
-								"source": "D(1,361,603,734,607,734,629,361,625)",
-								"span": {
-									"offset": 772,
-									"length": 42
-								}
-							},
-							{
-								"content": "CAST IN ORDER OF APPEARANCE",
-								"source": "D(1,430,680,870,685,869,711,430,706)",
-								"span": {
-									"offset": 820,
-									"length": 27
-								}
-							},
-							{
-								"content": "Don Pasquale SIR GERAINT EVANS/ARCHIE DRAKE*",
-								"source": "D(1,394,748,842,753,842,775,393,770)",
-								"span": {
-									"offset": 849,
-									"length": 44
-								}
-							},
-							{
-								"content": "Dr. Malatesta MARIO D'ANNA}/ERICH PARCE*",
-								"source": "D(1,395,782,793,786,793,808,395,803)",
-								"span": {
-									"offset": 894,
-									"length": 40
-								}
-							},
-							{
-								"content": "Ernesto",
-								"source": "D(1,439,818,500,819,500,837,439,836)",
-								"span": {
-									"offset": 935,
-									"length": 7
-								}
-							},
-							{
-								"content": "EDUARDO GIMENEZ+/WILLIAM LIVINGSTON*",
-								"source": "D(1,515,817,906,822,906,843,515,838)",
-								"span": {
-									"offset": 943,
-									"length": 36
-								}
-							},
-							{
-								"content": "Norina",
-								"source": "D(1,445,852,500,853,499,871,445,869)",
-								"span": {
-									"offset": 980,
-									"length": 6
-								}
-							},
-							{
-								"content": "CAROL WEBBER/JULI HOLLAND*t",
-								"source": "D(1,512,851,816,855,815,876,512,872)",
-								"span": {
-									"offset": 987,
-									"length": 27
-								}
-							},
-							{
-								"content": "A Notary BOYD SCHLAEFERt",
-								"source": "D(1,426,884,688,887,688,908,425,904)",
-								"span": {
-									"offset": 1016,
-									"length": 24
-								}
-							},
-							{
-								"content": "+Seattle Opera debut",
-								"source": "D(1,583,934,717,937,716,953,583,951)",
-								"span": {
-									"offset": 1042,
-									"length": 20
-								}
-							},
-							{
-								"content": "*Opera-in-English",
-								"source": "D(1,597,950,704,952,704,969,597,967)",
-								"span": {
-									"offset": 1063,
-									"length": 17
-								}
-							},
-							{
-								"content": "We wish to thank these significant contributors to this Don Pasquale presentation: Mr. and",
-								"source": "D(1,345,1027,925,1035,924,1052,345,1044)",
-								"span": {
-									"offset": 1082,
-									"length": 90
-								}
-							},
-							{
-								"content": "Mrs. Howard S. Wright, Mr. and Mrs. Winston Scott, Mr. and Mrs. N. Stewart Rogers, Mr.",
-								"source": "D(1,345,1043,924,1051,923,1067,344,1059)",
-								"span": {
-									"offset": 1173,
-									"length": 86
-								}
-							},
-							{
-								"content": "and Mrs. James C. McCurdy, Mr. John Graham, Mr. and Mrs. Stanley Golub, Mr. and Mrs.",
-								"source": "D(1,345,1058,923,1066,923,1082,344,1074)",
-								"span": {
-									"offset": 1260,
-									"length": 84
-								}
-							},
-							{
-								"content": "Roger E. Forbes and Anonymous.",
-								"source": "D(1,344,1074,571,1077,571,1092,344,1090)",
-								"span": {
-									"offset": 1345,
-									"length": 30
-								}
-							},
-							{
-								"content": "The Opera-in-English Series performances are a project supported by a grant from the",
-								"source": "D(1,344,1098,921,1107,921,1124,344,1115)",
-								"span": {
-									"offset": 1377,
-									"length": 84
-								}
-							},
-							{
-								"content": "National Endowment for the Arts in Washington, D.C., a Federal Agency.",
-								"source": "D(1,343,1113,834,1121,834,1138,343,1130)",
-								"span": {
-									"offset": 1462,
-									"length": 70
-								}
-							},
-							{
-								"content": "The Artist-in-Residence Program is jointly supported by the Washington State Arts",
-								"source": "D(1,343,1135,920,1144,920,1161,343,1152)",
-								"span": {
-									"offset": 1534,
-									"length": 81
-								}
-							},
-							{
-								"content": "Commission and the National Endowment for the Arts.",
-								"source": "D(1,343,1151,711,1156,711,1172,342,1167)",
-								"span": {
-									"offset": 1616,
-									"length": 51
-								}
-							},
-							{
-								"content": "We wish to thank PONCHO for a major grant to help meet requirements for the Challenge",
-								"source": "D(1,342,1172,920,1181,919,1199,341,1189)",
-								"span": {
-									"offset": 1669,
-									"length": 85
-								}
-							},
-							{
-								"content": "Grant from the National Endowment for the Arts.",
-								"source": "D(1,342,1188,675,1193,675,1209,342,1204)",
-								"span": {
-									"offset": 1755,
-									"length": 47
-								}
-							},
-							{
-								"content": "Puget Sound Business supports Seattle Opera through the Corporate Council for the Arts.",
-								"source": "D(1,341,1209,918,1218,918,1235,341,1227)",
-								"span": {
-									"offset": 1804,
-									"length": 87
-								}
-							},
-							{
-								"content": "Seattle Opera is a member of OPERA America.",
-								"source": "D(1,341,1253,671,1258,671,1277,341,1272)",
-								"span": {
-									"offset": 1893,
-									"length": 43
-								}
-							},
-							{
-								"content": "13",
-								"source": "D(1,938,1286,951,1286,951,1297,938,1297)",
-								"span": {
-									"offset": 1955,
-									"length": 2
-								}
-							}
-						]
-					}
-				],
-				"paragraphs": [
-					{
-						"content": "Conductor HENRY HOLT",
-						"source": "D(1,42,517,153,518,153,555,42,555)",
-						"span": {
-							"offset": 0,
-							"length": 20
-						}
-					},
-					{
-						"content": "English Series Conductor ROGER CANTRELL",
-						"source": "D(1,42,573,228,575,228,612,41,610)",
-						"span": {
-							"offset": 22,
-							"length": 39
-						}
-					},
-					{
-						"content": "Stage Director LINCOLN CLARK",
-						"source": "D(1,41,629,180,630,180,667,40,666)",
-						"span": {
-							"offset": 63,
-							"length": 28
-						}
-					},
-					{
-						"content": "Scenic Designer ROBERT O'HEARN The Greater Miami Opera Ass'n",
-						"source": "D(1,40,684,281,688,280,746,39,742)",
-						"span": {
-							"offset": 93,
-							"length": 60
-						}
-					},
-					{
-						"content": "Costumes SUZANNE MESS, Malabar Ltd.",
-						"source": "D(1,38,759,274,762,274,800,38,797)",
-						"span": {
-							"offset": 155,
-							"length": 35
-						}
-					},
-					{
-						"content": "Lighting Designer E. DEE TORREY",
-						"source": "D(1,38,819,165,820,165,858,37,856)",
-						"span": {
-							"offset": 192,
-							"length": 31
-						}
-					},
-					{
-						"content": "Choral Preparation HANS WOLF",
-						"source": "D(1,37,870,179,872,178,910,36,908)",
-						"span": {
-							"offset": 225,
-							"length": 28
-						}
-					},
-					{
-						"content": "Wigs and Hairstyles WAYNE GEROU",
-						"source": "D(1,36,926,183,928,182,965,36,963)",
-						"span": {
-							"offset": 255,
-							"length": 31
-						}
-					},
-					{
-						"content": "Make-up Artist BARBARA MURPHY YORK",
-						"source": "D(1,34,982,250,984,249,1022,34,1020)",
-						"span": {
-							"offset": 288,
-							"length": 34
-						}
-					},
-					{
-						"content": "Final Curtain approximately 10:45 pm Latecomers will not be seated after the house lights are lowered.",
-						"source": "D(1,31,1184,230,1187,229,1229,31,1226)",
-						"span": {
-							"offset": 324,
-							"length": 102
-						}
-					},
-					{
-						"content": "PLEASE DO NOT INTERRUPT THE MUSIC WITH APPLAUSE. MAY 6, 9, 10, 13, 15, 16, 1981",
-						"source": "D(1,30,1231,249,1235,248,1290,29,1287)",
-						"span": {
-							"offset": 428,
-							"length": 79
-						}
-					},
-					{
-						"role": "title",
-						"content": "DON PASQUALE",
-						"source": "D(1,399,400,908,406,907,468,399,462)",
-						"span": {
-							"offset": 510,
-							"length": 14
-						}
-					},
-					{
-						"content": "May 6, 9, 10*, 13, 15*, 16, 1981",
-						"source": "D(1,363,495,670,499,670,524,362,520)",
-						"span": {
-							"offset": 526,
-							"length": 32
-						}
-					},
-					{
-						"content": "Opera buffa in three acts by Donizetti; text by Ruffini and the composer. Premiered 3 January 1843 in Paris. English translation by Phyllis Mead, used by arrangement with Associated Music Publishers, Inc., U. S. agents for G. Ricordi and Company, Milano.",
-						"source": "D(1,362,541,940,547,939,631,361,625)",
-						"span": {
-							"offset": 560,
-							"length": 254
-						}
-					},
-					{
-						"role": "sectionHeading",
-						"content": "CAST IN ORDER OF APPEARANCE",
-						"source": "D(1,430,680,870,685,869,711,430,706)",
-						"span": {
-							"offset": 817,
-							"length": 30
-						}
-					},
-					{
-						"content": "Don Pasquale SIR GERAINT EVANS/ARCHIE DRAKE* Dr. Malatesta MARIO D'ANNA}/ERICH PARCE* Ernesto EDUARDO GIMENEZ+/WILLIAM LIVINGSTON* Norina CAROL WEBBER/JULI HOLLAND*t",
-						"source": "D(1,394,748,907,754,905,877,392,871)",
-						"span": {
-							"offset": 849,
-							"length": 165
-						}
-					},
-					{
-						"content": "A Notary BOYD SCHLAEFERt",
-						"source": "D(1,426,884,688,887,688,908,425,904)",
-						"span": {
-							"offset": 1016,
-							"length": 24
-						}
-					},
-					{
-						"content": "+Seattle Opera debut *Opera-in-English",
-						"source": "D(1,583,934,717,937,716,969,582,967)",
-						"span": {
-							"offset": 1042,
-							"length": 38
-						}
-					},
-					{
-						"content": "We wish to thank these significant contributors to this Don Pasquale presentation: Mr. and Mrs. Howard S. Wright, Mr. and Mrs. Winston Scott, Mr. and Mrs. N. Stewart Rogers, Mr. and Mrs. James C. McCurdy, Mr. John Graham, Mr. and Mrs. Stanley Golub, Mr. and Mrs. Roger E. Forbes and Anonymous.",
-						"source": "D(1,345,1027,925,1035,924,1097,344,1090)",
-						"span": {
-							"offset": 1082,
-							"length": 293
-						}
-					},
-					{
-						"content": "The Opera-in-English Series performances are a project supported by a grant from the National Endowment for the Arts in Washington, D.C., a Federal Agency.",
-						"source": "D(1,343,1098,921,1107,921,1139,343,1130)",
-						"span": {
-							"offset": 1377,
-							"length": 155
-						}
-					},
-					{
-						"content": "The Artist-in-Residence Program is jointly supported by the Washington State Arts Commission and the National Endowment for the Arts.",
-						"source": "D(1,343,1135,920,1144,919,1176,342,1167)",
-						"span": {
-							"offset": 1534,
-							"length": 133
-						}
-					},
-					{
-						"content": "We wish to thank PONCHO for a major grant to help meet requirements for the Challenge Grant from the National Endowment for the Arts.",
-						"source": "D(1,342,1172,920,1181,919,1214,341,1204)",
-						"span": {
-							"offset": 1669,
-							"length": 133
-						}
-					},
-					{
-						"content": "Puget Sound Business supports Seattle Opera through the Corporate Council for the Arts.",
-						"source": "D(1,341,1209,918,1218,918,1235,341,1227)",
-						"span": {
-							"offset": 1804,
-							"length": 87
-						}
-					},
-					{
-						"content": "Seattle Opera is a member of OPERA America.",
-						"source": "D(1,341,1253,671,1258,671,1277,341,1272)",
-						"span": {
-							"offset": 1893,
-							"length": 43
-						}
-					},
-					{
-						"role": "pageNumber",
-						"content": "13",
-						"source": "D(1,938,1286,951,1286,951,1297,938,1297)",
-						"span": {
-							"offset": 1938,
-							"length": 24
-						}
-					}
-				],
-				"sections": [
-					{
-						"span": {
-							"offset": 0,
-							"length": 1936
-						},
-						"elements": [
-							"/sections/1",
-							"/sections/2"
-						]
-					},
-					{
-						"span": {
-							"offset": 0,
-							"length": 507
-						},
-						"elements": [
-							"/paragraphs/0",
-							"/paragraphs/1",
-							"/paragraphs/2",
-							"/paragraphs/3",
-							"/paragraphs/4",
-							"/paragraphs/5",
-							"/paragraphs/6",
-							"/paragraphs/7",
-							"/paragraphs/8",
-							"/paragraphs/9",
-							"/paragraphs/10"
-						]
-					},
-					{
-						"span": {
-							"offset": 510,
-							"length": 1426
-						},
-						"elements": [
-							"/paragraphs/11",
-							"/paragraphs/12",
-							"/paragraphs/13",
-							"/sections/3"
-						]
-					},
-					{
-						"span": {
-							"offset": 817,
-							"length": 1119
-						},
-						"elements": [
-							"/paragraphs/14",
-							"/paragraphs/15",
-							"/paragraphs/16",
-							"/paragraphs/17",
-							"/paragraphs/18",
-							"/paragraphs/19",
-							"/paragraphs/20",
-							"/paragraphs/21",
-							"/paragraphs/22",
-							"/paragraphs/23"
-						]
-					}
-				]
-			}
-		]
-	},
-	"usage": {
-		"documentPages": 1,
-		"tokens": {
-			"contextualization": 1000,
-			"input": 3333,
-			"output": 645
-		}
-	}
+  "id": "8d25653f-ef87-4d20-992a-836305dde66d",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "seattleopera",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-10-03T18:32:52Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# The Barber of Seville\n\nby Gioachino Rossini\n\nJanuary 20, 22, 23*, 26, 28*, 29, 1983\n\nAn Opera in three acts;\nLibretto by Cesare Sterbini after Beaumarchais' play of the same title.\nPremiered in Rome, February 20, 1816.\n\nEnglish Translation by Ruth and Thomas Martin\n\n\n## CAST IN ORDER OF APPEARANCE\n\nFiorello, servant of Count Almaviva\nCount Almaviva\nFigaro, a barber\nRosina, ward of Dr. Bartolo\nDr. Barolo, a physician\nAmbrogio, servant of Dr. Bartolo\nBerta, housemaid of Dr. Bartolo\nDon Basilio, a music master\nSergeant\n\nTOM TIVNAN\nEDUARDO GIMENEZ/ABRAM MORALES+\nTIMOTHY NOLEN/ERICH PARCE\n\nJUNE ANDERSON+/MARY LOGAN HASTINGS\nMICHAEL LI PAZ+/ARCHIE DRAKE\n\nOSBORN MOE\n\nSHIRLEY HARNED\nNOEL MANGIN, O.B.E.\nRICHARD VALE\n\nSerenaders and Soldiers\n\nConductor\nHENRY HOLT\nStage Director\nJAMES LUCAS\nStage Manager\nMICHAEL MITCHELL\nChorus Preparation\nScenic Design\nCostuming Design\nLighting Design\nE. DEE TORREY\nWAYNE GEROU\nBARBARA MURPHY-YORK\n\nREBECCA WAKEFIELD/MARK MOORE\n\nERCOLE SORMANI\nSEATTLE OPERA ASSOCIATION\n\nHairstyles and Wigs\nMake-up\n\n*Opera-in-English series\n+Seattle Opera debut\n\n8:00 CURTAIN\n\nFinal Curtain for The Barber of Seville approximately 11:00 p.m.\nLatecomers will not be seated after the house lights are lowered.\nThere will be two intermissions.\n\n<!-- PageFooter=\"JANUARY 20, 22, 23, 26, 28, 20, 1983\" -->\n<!-- PageNumber=\"17\" -->\n",
+        "fields": {
+          "SHOW": {
+            "type": "string",
+            "valueString": "The Barber of Seville"
+          },
+          "DATES": {
+            "type": "string",
+            "valueString": "January 20, 22, 23, 26, 28, 29, 1983"
+          },
+          "ROLES": {
+            "type": "array",
+            "valueArray": [
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Fiorello, servant of Count Almaviva"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "TOM TIVNAN"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Count Almaviva"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "EDUARDO GIMENEZ"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Count Almaviva"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "ABRAM MORALES"
+                  },
+                  "OTHER": {
+                    "type": "string",
+                    "valueString": "+"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Figaro, a barber"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "TIMOTHY NOLEN"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Figaro, a barber"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "ERICH PARCE"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Rosina, ward of Dr. Bartolo"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "JUNE ANDERSON"
+                  },
+                  "OTHER": {
+                    "type": "string",
+                    "valueString": "+"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Rosina, ward of Dr. Bartolo"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "MARY LOGAN HASTINGS"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Dr. Barolo, a physician"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "MICHAEL LI PAZ"
+                  },
+                  "OTHER": {
+                    "type": "string",
+                    "valueString": "+"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Dr. Barolo, a physician"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "ARCHIE DRAKE"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Ambrogio, servant of Dr. Bartolo"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "OSBORN MOE"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Berta, housemaid of Dr. Bartolo"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "SHIRLEY HARNED"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Don Basilio, a music master"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "NOEL MANGIN, O.B.E."
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Sergeant"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "RICHARD VALE"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Conductor"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "HENRY HOLT"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Stage Director"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "JAMES LUCAS"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Stage Manager"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "MICHAEL MITCHELL"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Chorus Preparation"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "E. DEE TORREY"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Scenic Design"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "WAYNE GEROU"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Costuming Design"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "BARBARA MURPHY-YORK"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Lighting Design"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "REBECCA WAKEFIELD"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Lighting Design"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "MARK MOORE"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Hairstyles and Wigs"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "ERCOLE SORMANI"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "valueObject": {
+                  "ROLE": {
+                    "type": "string",
+                    "valueString": "Make-up"
+                  },
+                  "ARTIST": {
+                    "type": "string",
+                    "valueString": "SEATTLE OPERA ASSOCIATION"
+                  },
+                  "OTHER": {
+                    "type": "string"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "pixel",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": -1.2313,
+            "width": 958,
+            "height": 1276,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1348
+              }
+            ],
+            "words": [
+              {
+                "content": "The",
+                "span": {
+                  "offset": 2,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,155,83,259,80,260,137,155,137)"
+              },
+              {
+                "content": "Barber",
+                "span": {
+                  "offset": 6,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,281,80,466,75,467,136,282,137)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 13,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,486,74,547,74,548,134,487,135)"
+              },
+              {
+                "content": "Seville",
+                "span": {
+                  "offset": 16,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,561,74,742,70,742,128,562,134)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 25,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,325,170,354,169,355,196,325,197)"
+              },
+              {
+                "content": "Gioachino",
+                "span": {
+                  "offset": 28,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,362,169,478,167,479,193,363,196)"
+              },
+              {
+                "content": "Rossini",
+                "span": {
+                  "offset": 38,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,485,167,570,165,570,191,486,193)"
+              },
+              {
+                "content": "January",
+                "span": {
+                  "offset": 47,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,278,257,346,255,346,278,278,280)"
+              },
+              {
+                "content": "20,",
+                "span": {
+                  "offset": 55,
+                  "length": 3
+                },
+                "confidence": 0.989,
+                "source": "D(1,353,255,380,254,380,278,354,278)"
+              },
+              {
+                "content": "22,",
+                "span": {
+                  "offset": 59,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,388,254,414,253,415,277,388,277)"
+              },
+              {
+                "content": "23*,",
+                "span": {
+                  "offset": 63,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,422,253,460,252,460,275,423,277)"
+              },
+              {
+                "content": "26,",
+                "span": {
+                  "offset": 68,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,468,252,495,251,495,275,468,275)"
+              },
+              {
+                "content": "28*,",
+                "span": {
+                  "offset": 72,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,503,251,540,250,540,273,503,274)"
+              },
+              {
+                "content": "29,",
+                "span": {
+                  "offset": 77,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,547,250,575,249,575,273,548,273)"
+              },
+              {
+                "content": "1983",
+                "span": {
+                  "offset": 81,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,584,249,629,248,629,271,585,273)"
+              },
+              {
+                "content": "An",
+                "span": {
+                  "offset": 87,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,368,297,391,297,392,315,368,316)"
+              },
+              {
+                "content": "Opera",
+                "span": {
+                  "offset": 90,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,396,297,442,296,443,314,397,315)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 96,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,448,296,462,296,462,314,449,314)"
+              },
+              {
+                "content": "three",
+                "span": {
+                  "offset": 99,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,467,296,504,295,504,313,468,314)"
+              },
+              {
+                "content": "acts;",
+                "span": {
+                  "offset": 105,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,510,295,543,294,543,313,510,313)"
+              },
+              {
+                "content": "Libretto",
+                "span": {
+                  "offset": 111,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,198,319,259,317,259,337,198,339)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 120,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,264,317,282,317,282,337,265,337)"
+              },
+              {
+                "content": "Cesare",
+                "span": {
+                  "offset": 123,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,288,317,336,316,336,336,288,337)"
+              },
+              {
+                "content": "Sterbini",
+                "span": {
+                  "offset": 130,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,342,316,399,315,399,334,342,335)"
+              },
+              {
+                "content": "after",
+                "span": {
+                  "offset": 139,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,405,315,438,314,438,333,405,334)"
+              },
+              {
+                "content": "Beaumarchais'",
+                "span": {
+                  "offset": 145,
+                  "length": 13
+                },
+                "confidence": 0.992,
+                "source": "D(1,443,314,546,312,547,331,444,333)"
+              },
+              {
+                "content": "play",
+                "span": {
+                  "offset": 159,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,552,312,582,311,583,331,553,331)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 164,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,588,311,605,310,605,330,588,331)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 167,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,609,310,631,310,632,329,610,330)"
+              },
+              {
+                "content": "same",
+                "span": {
+                  "offset": 171,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,637,310,673,309,674,329,637,329)"
+              },
+              {
+                "content": "title.",
+                "span": {
+                  "offset": 176,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,678,308,712,308,712,328,679,328)"
+              },
+              {
+                "content": "Premiered",
+                "span": {
+                  "offset": 183,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,307,335,383,333,383,352,308,354)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 193,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,388,333,402,333,403,352,389,352)"
+              },
+              {
+                "content": "Rome,",
+                "span": {
+                  "offset": 196,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,408,333,455,332,456,351,408,352)"
+              },
+              {
+                "content": "February",
+                "span": {
+                  "offset": 202,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,461,332,526,331,526,350,462,351)"
+              },
+              {
+                "content": "20,",
+                "span": {
+                  "offset": 211,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,532,330,554,330,555,349,532,350)"
+              },
+              {
+                "content": "1816.",
+                "span": {
+                  "offset": 215,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,563,330,605,329,605,347,563,349)"
+              },
+              {
+                "content": "English",
+                "span": {
+                  "offset": 222,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,276,375,330,374,331,395,277,396)"
+              },
+              {
+                "content": "Translation",
+                "span": {
+                  "offset": 230,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,335,374,419,372,419,393,336,394)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 242,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,424,372,442,371,442,392,425,392)"
+              },
+              {
+                "content": "Ruth",
+                "span": {
+                  "offset": 245,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,448,371,485,371,485,391,449,392)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 250,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,490,370,516,370,517,390,491,391)"
+              },
+              {
+                "content": "Thomas",
+                "span": {
+                  "offset": 254,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,522,370,580,368,580,389,522,390)"
+              },
+              {
+                "content": "Martin",
+                "span": {
+                  "offset": 261,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,585,368,638,367,638,387,586,389)"
+              },
+              {
+                "content": "CAST",
+                "span": {
+                  "offset": 273,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,267,486,327,485,327,506,267,508)"
+              },
+              {
+                "content": "IN",
+                "span": {
+                  "offset": 278,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,333,485,358,484,359,506,334,506)"
+              },
+              {
+                "content": "ORDER",
+                "span": {
+                  "offset": 281,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,365,484,446,482,446,504,366,506)"
+              },
+              {
+                "content": "OF",
+                "span": {
+                  "offset": 287,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,452,482,483,481,484,503,453,504)"
+              },
+              {
+                "content": "APPEARANCE",
+                "span": {
+                  "offset": 290,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,489,481,646,477,646,499,489,503)"
+              },
+              {
+                "content": "Fiorello,",
+                "span": {
+                  "offset": 302,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,181,534,242,533,242,552,181,553)"
+              },
+              {
+                "content": "servant",
+                "span": {
+                  "offset": 312,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,248,533,300,532,300,551,248,552)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 320,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,305,532,322,532,322,550,306,551)"
+              },
+              {
+                "content": "Count",
+                "span": {
+                  "offset": 323,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,326,532,372,531,373,549,326,550)"
+              },
+              {
+                "content": "Almaviva",
+                "span": {
+                  "offset": 329,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,378,530,449,529,449,547,378,549)"
+              },
+              {
+                "content": "Count",
+                "span": {
+                  "offset": 338,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,326,551,373,550,373,567,326,567)"
+              },
+              {
+                "content": "Almaviva",
+                "span": {
+                  "offset": 344,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,378,550,449,548,449,565,379,566)"
+              },
+              {
+                "content": "Figaro,",
+                "span": {
+                  "offset": 353,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,331,568,381,568,381,585,331,586)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 361,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,387,567,395,567,395,585,388,585)"
+              },
+              {
+                "content": "barber",
+                "span": {
+                  "offset": 363,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,400,567,449,566,449,583,401,585)"
+              },
+              {
+                "content": "Rosina,",
+                "span": {
+                  "offset": 370,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,241,588,296,587,296,606,241,607)"
+              },
+              {
+                "content": "ward",
+                "span": {
+                  "offset": 378,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,302,587,338,586,338,605,302,606)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 383,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,343,586,360,586,361,604,344,605)"
+              },
+              {
+                "content": "Dr.",
+                "span": {
+                  "offset": 386,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,364,586,388,585,388,604,365,604)"
+              },
+              {
+                "content": "Bartolo",
+                "span": {
+                  "offset": 390,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,394,585,450,584,450,602,395,604)"
+              },
+              {
+                "content": "Dr.",
+                "span": {
+                  "offset": 398,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,277,608,303,607,303,625,278,626)"
+              },
+              {
+                "content": "Barolo,",
+                "span": {
+                  "offset": 402,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,309,607,361,606,362,625,310,625)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 410,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,368,606,375,606,376,624,368,625)"
+              },
+              {
+                "content": "physician",
+                "span": {
+                  "offset": 412,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,381,606,451,605,451,623,382,624)"
+              },
+              {
+                "content": "Ambrogio,",
+                "span": {
+                  "offset": 422,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,201,628,281,627,281,645,202,646)"
+              },
+              {
+                "content": "servant",
+                "span": {
+                  "offset": 432,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,287,627,339,626,339,643,288,645)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 440,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,344,625,361,625,361,643,344,643)"
+              },
+              {
+                "content": "Dr.",
+                "span": {
+                  "offset": 443,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,365,625,389,624,389,642,365,643)"
+              },
+              {
+                "content": "Bartolo",
+                "span": {
+                  "offset": 447,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,395,624,451,623,451,641,396,642)"
+              },
+              {
+                "content": "Berta,",
+                "span": {
+                  "offset": 455,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,212,646,255,646,255,663,212,664)"
+              },
+              {
+                "content": "housemaid",
+                "span": {
+                  "offset": 462,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,261,646,339,643,340,662,262,663)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 472,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,345,643,362,643,362,661,346,661)"
+              },
+              {
+                "content": "Dr.",
+                "span": {
+                  "offset": 475,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,365,643,389,642,390,660,366,661)"
+              },
+              {
+                "content": "Bartolo",
+                "span": {
+                  "offset": 479,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,395,642,451,641,451,659,396,660)"
+              },
+              {
+                "content": "Don",
+                "span": {
+                  "offset": 487,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,243,664,277,663,277,681,243,682)"
+              },
+              {
+                "content": "Basilio,",
+                "span": {
+                  "offset": 491,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,282,663,335,662,335,680,283,681)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 500,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,340,662,348,662,349,680,341,680)"
+              },
+              {
+                "content": "music",
+                "span": {
+                  "offset": 502,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,354,662,396,662,397,679,355,680)"
+              },
+              {
+                "content": "master",
+                "span": {
+                  "offset": 508,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,402,662,452,661,452,678,402,679)"
+              },
+              {
+                "content": "Sergeant",
+                "span": {
+                  "offset": 515,
+                  "length": 8
+                },
+                "confidence": 0.998,
+                "source": "D(1,388,680,453,680,453,696,388,697)"
+              },
+              {
+                "content": "TOM",
+                "span": {
+                  "offset": 525,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,465,528,508,527,508,544,466,545)"
+              },
+              {
+                "content": "TIVNAN",
+                "span": {
+                  "offset": 529,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,513,527,585,525,585,542,514,544)"
+              },
+              {
+                "content": "EDUARDO",
+                "span": {
+                  "offset": 536,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,466,547,557,544,557,562,466,564)"
+              },
+              {
+                "content": "GIMENEZ/ABRAM",
+                "span": {
+                  "offset": 544,
+                  "length": 13
+                },
+                "confidence": 0.977,
+                "source": "D(1,562,544,714,540,715,559,563,562)"
+              },
+              {
+                "content": "MORALES+",
+                "span": {
+                  "offset": 558,
+                  "length": 8
+                },
+                "confidence": 0.679,
+                "source": "D(1,720,540,816,538,816,557,720,559)"
+              },
+              {
+                "content": "TIMOTHY",
+                "span": {
+                  "offset": 567,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,466,565,550,563,550,580,467,582)"
+              },
+              {
+                "content": "NOLEN/ERICH",
+                "span": {
+                  "offset": 575,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,555,563,680,560,680,577,556,580)"
+              },
+              {
+                "content": "PARCE",
+                "span": {
+                  "offset": 587,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,685,560,745,559,745,576,686,577)"
+              },
+              {
+                "content": "JUNE",
+                "span": {
+                  "offset": 594,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,466,583,511,582,512,600,467,601)"
+              },
+              {
+                "content": "ANDERSON+/MARY",
+                "span": {
+                  "offset": 599,
+                  "length": 14
+                },
+                "confidence": 0.802,
+                "source": "D(1,517,582,686,578,686,596,517,600)"
+              },
+              {
+                "content": "LOGAN",
+                "span": {
+                  "offset": 614,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,692,578,756,576,756,595,692,596)"
+              },
+              {
+                "content": "HASTINGS",
+                "span": {
+                  "offset": 620,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,761,576,851,574,851,592,761,594)"
+              },
+              {
+                "content": "MICHAEL",
+                "span": {
+                  "offset": 629,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,467,603,549,601,550,619,467,621)"
+              },
+              {
+                "content": "LI",
+                "span": {
+                  "offset": 637,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,554,601,570,601,571,619,555,619)"
+              },
+              {
+                "content": "PAZ+/ARCHIE",
+                "span": {
+                  "offset": 640,
+                  "length": 11
+                },
+                "confidence": 0.774,
+                "source": "D(1,576,600,694,598,695,616,577,619)"
+              },
+              {
+                "content": "DRAKE",
+                "span": {
+                  "offset": 652,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,699,598,763,596,763,614,700,616)"
+              },
+              {
+                "content": "OSBORN",
+                "span": {
+                  "offset": 659,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,468,622,542,620,542,637,469,639)"
+              },
+              {
+                "content": "MOE",
+                "span": {
+                  "offset": 666,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,547,620,590,619,591,636,548,637)"
+              },
+              {
+                "content": "SHIRLEY",
+                "span": {
+                  "offset": 671,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,468,640,541,639,542,656,469,657)"
+              },
+              {
+                "content": "HARNED",
+                "span": {
+                  "offset": 679,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,547,639,625,637,625,654,547,655)"
+              },
+              {
+                "content": "NOEL",
+                "span": {
+                  "offset": 686,
+                  "length": 4
+                },
+                "confidence": 0.987,
+                "source": "D(1,469,658,518,657,519,674,469,675)"
+              },
+              {
+                "content": "MANGIN,",
+                "span": {
+                  "offset": 691,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,523,657,605,655,605,672,523,674)"
+              },
+              {
+                "content": "O.B.E.",
+                "span": {
+                  "offset": 699,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,608,655,657,654,657,671,609,672)"
+              },
+              {
+                "content": "RICHARD",
+                "span": {
+                  "offset": 706,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,469,677,552,675,552,692,469,694)"
+              },
+              {
+                "content": "VALE",
+                "span": {
+                  "offset": 714,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,557,675,606,674,607,691,558,692)"
+              },
+              {
+                "content": "Serenaders",
+                "span": {
+                  "offset": 720,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,373,715,452,714,452,732,373,733)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 731,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,458,714,483,713,484,731,458,732)"
+              },
+              {
+                "content": "Soldiers",
+                "span": {
+                  "offset": 735,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,489,713,550,712,550,730,490,731)"
+              },
+              {
+                "content": "Conductor",
+                "span": {
+                  "offset": 745,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,373,800,454,799,454,816,373,817)"
+              },
+              {
+                "content": "HENRY",
+                "span": {
+                  "offset": 755,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,470,797,532,796,532,813,471,814)"
+              },
+              {
+                "content": "HOLT",
+                "span": {
+                  "offset": 761,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,537,796,589,794,590,812,538,813)"
+              },
+              {
+                "content": "Stage",
+                "span": {
+                  "offset": 766,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,347,819,386,819,386,836,347,837)"
+              },
+              {
+                "content": "Director",
+                "span": {
+                  "offset": 772,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,391,819,454,818,454,835,392,836)"
+              },
+              {
+                "content": "JAMES",
+                "span": {
+                  "offset": 781,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,470,816,527,814,527,831,471,833)"
+              },
+              {
+                "content": "LUCAS",
+                "span": {
+                  "offset": 787,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,532,814,593,812,594,829,533,831)"
+              },
+              {
+                "content": "Stage",
+                "span": {
+                  "offset": 793,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,347,838,385,837,385,855,347,855)"
+              },
+              {
+                "content": "Manager",
+                "span": {
+                  "offset": 799,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,391,837,454,837,454,854,391,855)"
+              },
+              {
+                "content": "MICHAEL",
+                "span": {
+                  "offset": 807,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,472,852,554,850,555,867,472,869)"
+              },
+              {
+                "content": "MITCHELL",
+                "span": {
+                  "offset": 815,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,559,850,651,848,651,865,560,867)"
+              },
+              {
+                "content": "Chorus",
+                "span": {
+                  "offset": 824,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,309,856,364,855,364,873,310,874)"
+              },
+              {
+                "content": "Preparation",
+                "span": {
+                  "offset": 831,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,369,855,455,854,455,871,370,873)"
+              },
+              {
+                "content": "Scenic",
+                "span": {
+                  "offset": 843,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,352,874,399,873,399,890,352,891)"
+              },
+              {
+                "content": "Design",
+                "span": {
+                  "offset": 850,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,405,873,456,873,456,890,405,890)"
+              },
+              {
+                "content": "Costuming",
+                "span": {
+                  "offset": 857,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,320,892,400,891,400,909,320,910)"
+              },
+              {
+                "content": "Design",
+                "span": {
+                  "offset": 867,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,405,891,457,891,457,908,406,909)"
+              },
+              {
+                "content": "Lighting",
+                "span": {
+                  "offset": 874,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,339,910,401,910,401,927,340,928)"
+              },
+              {
+                "content": "Design",
+                "span": {
+                  "offset": 883,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,406,910,457,909,457,927,406,927)"
+              },
+              {
+                "content": "E.",
+                "span": {
+                  "offset": 890,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,474,907,490,906,490,923,475,923)"
+              },
+              {
+                "content": "DEE",
+                "span": {
+                  "offset": 893,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,495,906,529,905,530,922,496,923)"
+              },
+              {
+                "content": "TORREY",
+                "span": {
+                  "offset": 897,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,534,905,608,903,608,920,535,922)"
+              },
+              {
+                "content": "WAYNE",
+                "span": {
+                  "offset": 904,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,475,924,542,923,542,940,475,941)"
+              },
+              {
+                "content": "GEROU",
+                "span": {
+                  "offset": 910,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,547,923,613,921,613,938,548,940)"
+              },
+              {
+                "content": "BARBARA",
+                "span": {
+                  "offset": 916,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,474,943,560,941,561,958,475,960)"
+              },
+              {
+                "content": "MURPHY-YORK",
+                "span": {
+                  "offset": 924,
+                  "length": 11
+                },
+                "confidence": 0.962,
+                "source": "D(1,565,941,699,937,699,955,566,958)"
+              },
+              {
+                "content": "REBECCA",
+                "span": {
+                  "offset": 937,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,471,834,553,831,554,849,472,851)"
+              },
+              {
+                "content": "WAKEFIELD/MARK",
+                "span": {
+                  "offset": 945,
+                  "length": 14
+                },
+                "confidence": 0.993,
+                "source": "D(1,559,831,725,827,725,845,560,849)"
+              },
+              {
+                "content": "MOORE",
+                "span": {
+                  "offset": 960,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,730,827,799,825,799,843,731,845)"
+              },
+              {
+                "content": "ERCOLE",
+                "span": {
+                  "offset": 967,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,472,870,543,869,544,885,473,887)"
+              },
+              {
+                "content": "SORMANI",
+                "span": {
+                  "offset": 974,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,549,869,635,866,635,883,549,885)"
+              },
+              {
+                "content": "SEATTLE",
+                "span": {
+                  "offset": 982,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,473,888,551,886,551,904,474,905)"
+              },
+              {
+                "content": "OPERA",
+                "span": {
+                  "offset": 990,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,556,886,615,885,616,902,557,903)"
+              },
+              {
+                "content": "ASSOCIATION",
+                "span": {
+                  "offset": 996,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,620,885,742,881,743,899,621,902)"
+              },
+              {
+                "content": "Hairstyles",
+                "span": {
+                  "offset": 1009,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,307,929,380,928,380,946,308,947)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1020,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,386,928,412,928,412,945,386,945)"
+              },
+              {
+                "content": "Wigs",
+                "span": {
+                  "offset": 1024,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,417,928,457,927,457,945,418,945)"
+              },
+              {
+                "content": "Make-up",
+                "span": {
+                  "offset": 1029,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,389,946,458,946,458,963,390,963)"
+              },
+              {
+                "content": "*Opera-in-English",
+                "span": {
+                  "offset": 1038,
+                  "length": 17
+                },
+                "confidence": 0.989,
+                "source": "D(1,405,1042,515,1040,515,1057,405,1058)"
+              },
+              {
+                "content": "series",
+                "span": {
+                  "offset": 1056,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,520,1040,554,1040,554,1056,520,1057)"
+              },
+              {
+                "content": "+Seattle",
+                "span": {
+                  "offset": 1063,
+                  "length": 8
+                },
+                "confidence": 0.647,
+                "source": "D(1,414,1059,462,1058,462,1075,414,1076)"
+              },
+              {
+                "content": "Opera",
+                "span": {
+                  "offset": 1072,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,467,1058,506,1057,506,1074,468,1075)"
+              },
+              {
+                "content": "debut",
+                "span": {
+                  "offset": 1078,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,510,1057,545,1056,545,1073,511,1074)"
+              },
+              {
+                "content": "8:00",
+                "span": {
+                  "offset": 1085,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,418,1092,452,1092,453,1107,419,1108)"
+              },
+              {
+                "content": "CURTAIN",
+                "span": {
+                  "offset": 1090,
+                  "length": 7
+                },
+                "confidence": 0.998,
+                "source": "D(1,457,1091,540,1089,540,1106,458,1107)"
+              },
+              {
+                "content": "Final",
+                "span": {
+                  "offset": 1099,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,240,1151,277,1149,278,1166,240,1167)"
+              },
+              {
+                "content": "Curtain",
+                "span": {
+                  "offset": 1105,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,283,1149,341,1148,341,1165,283,1166)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1113,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,345,1148,367,1147,367,1165,346,1165)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 1117,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,371,1147,398,1147,398,1164,372,1165)"
+              },
+              {
+                "content": "Barber",
+                "span": {
+                  "offset": 1121,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,403,1147,450,1146,450,1163,404,1164)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1128,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,454,1146,469,1145,470,1163,454,1163)"
+              },
+              {
+                "content": "Seville",
+                "span": {
+                  "offset": 1131,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,473,1145,518,1144,518,1162,473,1163)"
+              },
+              {
+                "content": "approximately",
+                "span": {
+                  "offset": 1139,
+                  "length": 13
+                },
+                "confidence": 0.992,
+                "source": "D(1,521,1144,626,1142,626,1159,522,1162)"
+              },
+              {
+                "content": "11:00",
+                "span": {
+                  "offset": 1153,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,631,1142,671,1141,671,1159,631,1159)"
+              },
+              {
+                "content": "p.m.",
+                "span": {
+                  "offset": 1159,
+                  "length": 4
+                },
+                "confidence": 0.995,
+                "source": "D(1,675,1141,709,1141,709,1158,675,1159)"
+              },
+              {
+                "content": "Latecomers",
+                "span": {
+                  "offset": 1164,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,240,1168,322,1166,322,1182,240,1184)"
+              },
+              {
+                "content": "will",
+                "span": {
+                  "offset": 1175,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,327,1166,355,1165,355,1181,328,1182)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1180,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,360,1165,384,1164,385,1181,361,1181)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1184,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,389,1164,407,1164,407,1180,390,1180)"
+              },
+              {
+                "content": "seated",
+                "span": {
+                  "offset": 1187,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,411,1163,455,1162,456,1179,412,1180)"
+              },
+              {
+                "content": "after",
+                "span": {
+                  "offset": 1194,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,460,1162,495,1162,495,1178,461,1179)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1200,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,499,1161,522,1161,523,1178,500,1178)"
+              },
+              {
+                "content": "house",
+                "span": {
+                  "offset": 1204,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,528,1161,570,1160,571,1177,529,1178)"
+              },
+              {
+                "content": "lights",
+                "span": {
+                  "offset": 1210,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,575,1160,614,1159,615,1176,576,1177)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 1217,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,620,1159,642,1159,642,1175,620,1176)"
+              },
+              {
+                "content": "lowered.",
+                "span": {
+                  "offset": 1221,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,646,1158,709,1157,709,1174,647,1175)"
+              },
+              {
+                "content": "There",
+                "span": {
+                  "offset": 1230,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,355,1181,400,1180,400,1196,356,1197)"
+              },
+              {
+                "content": "will",
+                "span": {
+                  "offset": 1236,
+                  "length": 4
+                },
+                "confidence": 0.993,
+                "source": "D(1,405,1180,432,1179,433,1195,405,1196)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1241,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,438,1179,455,1179,455,1195,438,1195)"
+              },
+              {
+                "content": "two",
+                "span": {
+                  "offset": 1244,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,460,1179,487,1178,487,1195,461,1195)"
+              },
+              {
+                "content": "intermissions.",
+                "span": {
+                  "offset": 1248,
+                  "length": 14
+                },
+                "confidence": 0.992,
+                "source": "D(1,492,1178,593,1177,594,1192,492,1195)"
+              },
+              {
+                "content": "JANUARY",
+                "span": {
+                  "offset": 1281,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,33,1252,80,1251,80,1264,33,1264)"
+              },
+              {
+                "content": "20,",
+                "span": {
+                  "offset": 1289,
+                  "length": 3
+                },
+                "confidence": 0.987,
+                "source": "D(1,84,1251,95,1251,95,1264,84,1264)"
+              },
+              {
+                "content": "22,",
+                "span": {
+                  "offset": 1293,
+                  "length": 3
+                },
+                "confidence": 0.886,
+                "source": "D(1,98,1251,110,1251,110,1263,99,1264)"
+              },
+              {
+                "content": "23,",
+                "span": {
+                  "offset": 1297,
+                  "length": 3
+                },
+                "confidence": 0.674,
+                "source": "D(1,114,1251,126,1251,126,1263,114,1263)"
+              },
+              {
+                "content": "26,",
+                "span": {
+                  "offset": 1301,
+                  "length": 3
+                },
+                "confidence": 0.914,
+                "source": "D(1,129,1251,141,1250,141,1263,130,1263)"
+              },
+              {
+                "content": "28,",
+                "span": {
+                  "offset": 1305,
+                  "length": 3
+                },
+                "confidence": 0.853,
+                "source": "D(1,144,1250,157,1250,157,1263,145,1263)"
+              },
+              {
+                "content": "20,",
+                "span": {
+                  "offset": 1309,
+                  "length": 3
+                },
+                "confidence": 0.645,
+                "source": "D(1,160,1250,172,1250,172,1263,161,1263)"
+              },
+              {
+                "content": "1983",
+                "span": {
+                  "offset": 1313,
+                  "length": 4
+                },
+                "confidence": 0.649,
+                "source": "D(1,177,1250,197,1250,198,1263,177,1263)"
+              },
+              {
+                "content": "17",
+                "span": {
+                  "offset": 1340,
+                  "length": 2
+                },
+                "confidence": 0.8,
+                "source": "D(1,924,1232,935,1232,935,1241,924,1241)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "The Barber of Seville",
+                "source": "D(1,154,81,741,70,742,129,155,137)",
+                "span": {
+                  "offset": 2,
+                  "length": 21
+                }
+              },
+              {
+                "content": "by Gioachino Rossini",
+                "source": "D(1,325,170,569,165,569,192,325,197)",
+                "span": {
+                  "offset": 25,
+                  "length": 20
+                }
+              },
+              {
+                "content": "January 20, 22, 23*, 26, 28*, 29, 1983",
+                "source": "D(1,277,256,628,247,628,271,278,280)",
+                "span": {
+                  "offset": 47,
+                  "length": 38
+                }
+              },
+              {
+                "content": "An Opera in three acts;",
+                "source": "D(1,368,297,542,294,543,313,368,315)",
+                "span": {
+                  "offset": 87,
+                  "length": 23
+                }
+              },
+              {
+                "content": "Libretto by Cesare Sterbini after Beaumarchais' play of the same title.",
+                "source": "D(1,198,319,711,308,712,328,198,339)",
+                "span": {
+                  "offset": 111,
+                  "length": 71
+                }
+              },
+              {
+                "content": "Premiered in Rome, February 20, 1816.",
+                "source": "D(1,307,335,604,329,605,348,307,354)",
+                "span": {
+                  "offset": 183,
+                  "length": 37
+                }
+              },
+              {
+                "content": "English Translation by Ruth and Thomas Martin",
+                "source": "D(1,276,375,637,367,637,388,277,396)",
+                "span": {
+                  "offset": 222,
+                  "length": 45
+                }
+              },
+              {
+                "content": "CAST IN ORDER OF APPEARANCE",
+                "source": "D(1,267,486,645,477,646,499,267,508)",
+                "span": {
+                  "offset": 273,
+                  "length": 27
+                }
+              },
+              {
+                "content": "Fiorello, servant of Count Almaviva",
+                "source": "D(1,181,534,448,528,448,547,181,553)",
+                "span": {
+                  "offset": 302,
+                  "length": 35
+                }
+              },
+              {
+                "content": "Count Almaviva",
+                "source": "D(1,326,551,448,548,449,565,326,567)",
+                "span": {
+                  "offset": 338,
+                  "length": 14
+                }
+              },
+              {
+                "content": "Figaro, a barber",
+                "source": "D(1,331,568,449,566,449,583,331,586)",
+                "span": {
+                  "offset": 353,
+                  "length": 16
+                }
+              },
+              {
+                "content": "Rosina, ward of Dr. Bartolo",
+                "source": "D(1,240,588,449,584,450,602,241,607)",
+                "span": {
+                  "offset": 370,
+                  "length": 27
+                }
+              },
+              {
+                "content": "Dr. Barolo, a physician",
+                "source": "D(1,277,607,450,605,450,623,277,626)",
+                "span": {
+                  "offset": 398,
+                  "length": 23
+                }
+              },
+              {
+                "content": "Ambrogio, servant of Dr. Bartolo",
+                "source": "D(1,201,628,450,623,451,641,202,646)",
+                "span": {
+                  "offset": 422,
+                  "length": 32
+                }
+              },
+              {
+                "content": "Berta, housemaid of Dr. Bartolo",
+                "source": "D(1,212,646,451,641,451,659,212,664)",
+                "span": {
+                  "offset": 455,
+                  "length": 31
+                }
+              },
+              {
+                "content": "Don Basilio, a music master",
+                "source": "D(1,243,664,451,660,452,678,243,682)",
+                "span": {
+                  "offset": 487,
+                  "length": 27
+                }
+              },
+              {
+                "content": "Sergeant",
+                "source": "D(1,388,680,452,680,452,696,388,697)",
+                "span": {
+                  "offset": 515,
+                  "length": 8
+                }
+              },
+              {
+                "content": "TOM TIVNAN",
+                "source": "D(1,465,528,584,525,585,542,465,545)",
+                "span": {
+                  "offset": 525,
+                  "length": 10
+                }
+              },
+              {
+                "content": "EDUARDO GIMENEZ/ABRAM MORALES+",
+                "source": "D(1,466,545,815,538,815,557,466,564)",
+                "span": {
+                  "offset": 536,
+                  "length": 30
+                }
+              },
+              {
+                "content": "TIMOTHY NOLEN/ERICH PARCE",
+                "source": "D(1,466,564,744,558,744,576,467,582)",
+                "span": {
+                  "offset": 567,
+                  "length": 25
+                }
+              },
+              {
+                "content": "JUNE ANDERSON+/MARY LOGAN HASTINGS",
+                "source": "D(1,466,583,850,573,851,592,466,601)",
+                "span": {
+                  "offset": 594,
+                  "length": 34
+                }
+              },
+              {
+                "content": "MICHAEL LI PAZ+/ARCHIE DRAKE",
+                "source": "D(1,467,603,762,596,762,614,467,621)",
+                "span": {
+                  "offset": 629,
+                  "length": 28
+                }
+              },
+              {
+                "content": "OSBORN MOE",
+                "source": "D(1,468,622,590,619,590,636,468,638)",
+                "span": {
+                  "offset": 659,
+                  "length": 10
+                }
+              },
+              {
+                "content": "SHIRLEY HARNED",
+                "source": "D(1,468,640,624,637,624,653,469,657)",
+                "span": {
+                  "offset": 671,
+                  "length": 14
+                }
+              },
+              {
+                "content": "NOEL MANGIN, O.B.E.",
+                "source": "D(1,469,658,656,654,657,671,469,675)",
+                "span": {
+                  "offset": 686,
+                  "length": 19
+                }
+              },
+              {
+                "content": "RICHARD VALE",
+                "source": "D(1,469,677,606,674,606,691,469,694)",
+                "span": {
+                  "offset": 706,
+                  "length": 12
+                }
+              },
+              {
+                "content": "Serenaders and Soldiers",
+                "source": "D(1,373,715,549,712,549,730,373,733)",
+                "span": {
+                  "offset": 720,
+                  "length": 23
+                }
+              },
+              {
+                "content": "Conductor",
+                "source": "D(1,373,800,453,799,453,816,373,817)",
+                "span": {
+                  "offset": 745,
+                  "length": 9
+                }
+              },
+              {
+                "content": "HENRY HOLT",
+                "source": "D(1,470,797,589,794,589,812,471,814)",
+                "span": {
+                  "offset": 755,
+                  "length": 10
+                }
+              },
+              {
+                "content": "Stage Director",
+                "source": "D(1,347,819,453,817,454,835,347,836)",
+                "span": {
+                  "offset": 766,
+                  "length": 14
+                }
+              },
+              {
+                "content": "JAMES LUCAS",
+                "source": "D(1,470,816,593,812,593,829,471,833)",
+                "span": {
+                  "offset": 781,
+                  "length": 11
+                }
+              },
+              {
+                "content": "Stage Manager",
+                "source": "D(1,347,837,454,836,454,854,347,855)",
+                "span": {
+                  "offset": 793,
+                  "length": 13
+                }
+              },
+              {
+                "content": "MICHAEL MITCHELL",
+                "source": "D(1,472,852,650,847,651,864,472,869)",
+                "span": {
+                  "offset": 807,
+                  "length": 16
+                }
+              },
+              {
+                "content": "Chorus Preparation",
+                "source": "D(1,309,856,455,854,455,872,310,874)",
+                "span": {
+                  "offset": 824,
+                  "length": 18
+                }
+              },
+              {
+                "content": "Scenic Design",
+                "source": "D(1,352,873,455,872,455,889,352,891)",
+                "span": {
+                  "offset": 843,
+                  "length": 13
+                }
+              },
+              {
+                "content": "Costuming Design",
+                "source": "D(1,320,892,456,891,456,908,320,910)",
+                "span": {
+                  "offset": 857,
+                  "length": 16
+                }
+              },
+              {
+                "content": "Lighting Design",
+                "source": "D(1,339,910,456,908,457,926,340,928)",
+                "span": {
+                  "offset": 874,
+                  "length": 15
+                }
+              },
+              {
+                "content": "E. DEE TORREY",
+                "source": "D(1,474,907,607,903,607,920,474,923)",
+                "span": {
+                  "offset": 890,
+                  "length": 13
+                }
+              },
+              {
+                "content": "WAYNE GEROU",
+                "source": "D(1,475,924,612,921,613,938,475,941)",
+                "span": {
+                  "offset": 904,
+                  "length": 11
+                }
+              },
+              {
+                "content": "BARBARA MURPHY-YORK",
+                "source": "D(1,474,943,698,937,699,954,475,960)",
+                "span": {
+                  "offset": 916,
+                  "length": 19
+                }
+              },
+              {
+                "content": "REBECCA WAKEFIELD/MARK MOORE",
+                "source": "D(1,471,833,798,825,799,843,472,851)",
+                "span": {
+                  "offset": 937,
+                  "length": 28
+                }
+              },
+              {
+                "content": "ERCOLE SORMANI",
+                "source": "D(1,472,870,634,866,635,883,473,887)",
+                "span": {
+                  "offset": 967,
+                  "length": 14
+                }
+              },
+              {
+                "content": "SEATTLE OPERA ASSOCIATION",
+                "source": "D(1,473,888,742,881,743,899,474,906)",
+                "span": {
+                  "offset": 982,
+                  "length": 25
+                }
+              },
+              {
+                "content": "Hairstyles and Wigs",
+                "source": "D(1,307,929,457,927,457,944,307,947)",
+                "span": {
+                  "offset": 1009,
+                  "length": 19
+                }
+              },
+              {
+                "content": "Make-up",
+                "source": "D(1,389,946,457,945,457,963,389,963)",
+                "span": {
+                  "offset": 1029,
+                  "length": 7
+                }
+              },
+              {
+                "content": "*Opera-in-English series",
+                "source": "D(1,405,1042,553,1040,553,1056,405,1058)",
+                "span": {
+                  "offset": 1038,
+                  "length": 24
+                }
+              },
+              {
+                "content": "+Seattle Opera debut",
+                "source": "D(1,414,1059,545,1056,545,1073,414,1076)",
+                "span": {
+                  "offset": 1063,
+                  "length": 20
+                }
+              },
+              {
+                "content": "8:00 CURTAIN",
+                "source": "D(1,418,1092,539,1089,540,1105,419,1108)",
+                "span": {
+                  "offset": 1085,
+                  "length": 12
+                }
+              },
+              {
+                "content": "Final Curtain for The Barber of Seville approximately 11:00 p.m.",
+                "source": "D(1,240,1150,708,1140,708,1158,240,1167)",
+                "span": {
+                  "offset": 1099,
+                  "length": 64
+                }
+              },
+              {
+                "content": "Latecomers will not be seated after the house lights are lowered.",
+                "source": "D(1,240,1167,709,1157,709,1174,240,1184)",
+                "span": {
+                  "offset": 1164,
+                  "length": 65
+                }
+              },
+              {
+                "content": "There will be two intermissions.",
+                "source": "D(1,355,1181,593,1177,593,1193,356,1197)",
+                "span": {
+                  "offset": 1230,
+                  "length": 32
+                }
+              },
+              {
+                "content": "JANUARY 20, 22, 23, 26, 28, 20, 1983",
+                "source": "D(1,33,1251,197,1250,197,1262,33,1264)",
+                "span": {
+                  "offset": 1281,
+                  "length": 36
+                }
+              },
+              {
+                "content": "17",
+                "source": "D(1,924,1232,935,1232,935,1241,924,1241)",
+                "span": {
+                  "offset": 1340,
+                  "length": 2
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "role": "title",
+            "content": "The Barber of Seville",
+            "source": "D(1,154,81,741,70,742,129,155,140)",
+            "span": {
+              "offset": 0,
+              "length": 23
+            }
+          },
+          {
+            "content": "by Gioachino Rossini",
+            "source": "D(1,325,170,569,165,569,192,325,197)",
+            "span": {
+              "offset": 25,
+              "length": 20
+            }
+          },
+          {
+            "content": "January 20, 22, 23*, 26, 28*, 29, 1983",
+            "source": "D(1,277,256,628,247,628,271,278,280)",
+            "span": {
+              "offset": 47,
+              "length": 38
+            }
+          },
+          {
+            "content": "An Opera in three acts; Libretto by Cesare Sterbini after Beaumarchais' play of the same title. Premiered in Rome, February 20, 1816.",
+            "source": "D(1,197,300,711,290,712,346,198,356)",
+            "span": {
+              "offset": 87,
+              "length": 133
+            }
+          },
+          {
+            "content": "English Translation by Ruth and Thomas Martin",
+            "source": "D(1,276,375,637,367,637,388,277,396)",
+            "span": {
+              "offset": 222,
+              "length": 45
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "CAST IN ORDER OF APPEARANCE",
+            "source": "D(1,267,486,645,477,646,499,267,508)",
+            "span": {
+              "offset": 270,
+              "length": 30
+            }
+          },
+          {
+            "content": "Fiorello, servant of Count Almaviva Count Almaviva Figaro, a barber Rosina, ward of Dr. Bartolo Dr. Barolo, a physician Ambrogio, servant of Dr. Bartolo Berta, housemaid of Dr. Bartolo Don Basilio, a music master Sergeant",
+            "source": "D(1,181,534,448,528,452,696,184,703)",
+            "span": {
+              "offset": 302,
+              "length": 221
+            }
+          },
+          {
+            "content": "TOM TIVNAN EDUARDO GIMENEZ/ABRAM MORALES+ TIMOTHY NOLEN/ERICH PARCE",
+            "source": "D(1,465,528,815,520,816,574,466,582)",
+            "span": {
+              "offset": 525,
+              "length": 67
+            }
+          },
+          {
+            "content": "JUNE ANDERSON+/MARY LOGAN HASTINGS MICHAEL LI PAZ+/ARCHIE DRAKE",
+            "source": "D(1,466,583,850,573,851,612,467,622)",
+            "span": {
+              "offset": 594,
+              "length": 63
+            }
+          },
+          {
+            "content": "OSBORN MOE",
+            "source": "D(1,468,622,590,619,590,636,468,638)",
+            "span": {
+              "offset": 659,
+              "length": 10
+            }
+          },
+          {
+            "content": "SHIRLEY HARNED NOEL MANGIN, O.B.E. RICHARD VALE",
+            "source": "D(1,468,640,656,636,657,690,469,694)",
+            "span": {
+              "offset": 671,
+              "length": 47
+            }
+          },
+          {
+            "content": "Serenaders and Soldiers",
+            "source": "D(1,373,715,549,712,549,730,373,733)",
+            "span": {
+              "offset": 720,
+              "length": 23
+            }
+          },
+          {
+            "content": "Conductor HENRY HOLT Stage Director JAMES LUCAS Stage Manager MICHAEL MITCHELL Chorus Preparation Scenic Design Costuming Design Lighting Design E. DEE TORREY WAYNE GEROU BARBARA MURPHY-YORK",
+            "source": "D(1,308,801,695,791,699,954,312,964)",
+            "span": {
+              "offset": 745,
+              "length": 190
+            }
+          },
+          {
+            "content": "REBECCA WAKEFIELD/MARK MOORE",
+            "source": "D(1,471,833,798,825,799,843,472,851)",
+            "span": {
+              "offset": 937,
+              "length": 28
+            }
+          },
+          {
+            "content": "ERCOLE SORMANI SEATTLE OPERA ASSOCIATION",
+            "source": "D(1,472,870,742,863,743,899,473,906)",
+            "span": {
+              "offset": 967,
+              "length": 40
+            }
+          },
+          {
+            "content": "Hairstyles and Wigs Make-up",
+            "source": "D(1,307,929,457,927,457,963,308,964)",
+            "span": {
+              "offset": 1009,
+              "length": 27
+            }
+          },
+          {
+            "content": "*Opera-in-English series +Seattle Opera debut",
+            "source": "D(1,405,1042,553,1040,554,1074,405,1076)",
+            "span": {
+              "offset": 1038,
+              "length": 45
+            }
+          },
+          {
+            "content": "8:00 CURTAIN",
+            "source": "D(1,418,1092,539,1089,540,1105,419,1108)",
+            "span": {
+              "offset": 1085,
+              "length": 12
+            }
+          },
+          {
+            "content": "Final Curtain for The Barber of Seville approximately 11:00 p.m. Latecomers will not be seated after the house lights are lowered. There will be two intermissions.",
+            "source": "D(1,240,1150,708,1140,709,1190,241,1199)",
+            "span": {
+              "offset": 1099,
+              "length": 163
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "JANUARY 20, 22, 23, 26, 28, 20, 1983",
+            "source": "D(1,33,1251,197,1250,197,1262,33,1264)",
+            "span": {
+              "offset": 1264,
+              "length": 58
+            }
+          },
+          {
+            "role": "pageNumber",
+            "content": "17",
+            "source": "D(1,924,1232,935,1232,935,1241,924,1241)",
+            "span": {
+              "offset": 1323,
+              "length": 24
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 1262
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/paragraphs/1",
+              "/paragraphs/2",
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/sections/1"
+            ]
+          },
+          {
+            "span": {
+              "offset": 270,
+              "length": 992
+            },
+            "elements": [
+              "/paragraphs/5",
+              "/paragraphs/6",
+              "/paragraphs/7",
+              "/paragraphs/8",
+              "/paragraphs/9",
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14",
+              "/paragraphs/15",
+              "/paragraphs/16",
+              "/paragraphs/17",
+              "/paragraphs/18"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "documentPages": 1,
+    "tokens": {
+      "contextualization": 1000,
+      "input": 3093,
+      "output": 835
+    }
+  }
 }

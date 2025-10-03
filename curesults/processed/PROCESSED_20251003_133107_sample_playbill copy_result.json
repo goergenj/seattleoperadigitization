@@ -1,10 +1,10 @@
 {
-  "id": "8d25653f-ef87-4d20-992a-836305dde66d",
+  "id": "b1481a5c-a3aa-4fdd-b9a7-aa1d0196799b",
   "status": "Succeeded",
   "result": {
     "analyzerId": "seattleopera",
     "apiVersion": "2025-05-01-preview",
-    "createdAt": "2025-10-03T18:32:52Z",
+    "createdAt": "2025-10-03T20:30:31Z",
     "warnings": [],
     "contents": [
       {
@@ -26,11 +26,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Fiorello, servant of Count Almaviva"
+                    "valueString": "Fiorello"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "TOM TIVNAN"
+                    "valueString": "Tom Tivnan"
                   },
                   "OTHER": {
                     "type": "string"
@@ -46,7 +46,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "EDUARDO GIMENEZ"
+                    "valueString": "Eduardo Gimenez"
                   },
                   "OTHER": {
                     "type": "string"
@@ -62,7 +62,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "ABRAM MORALES"
+                    "valueString": "Abram Morales"
                   },
                   "OTHER": {
                     "type": "string",
@@ -75,11 +75,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Figaro, a barber"
+                    "valueString": "Figaro"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "TIMOTHY NOLEN"
+                    "valueString": "Timothy Nolen"
                   },
                   "OTHER": {
                     "type": "string"
@@ -91,11 +91,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Figaro, a barber"
+                    "valueString": "Figaro"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "ERICH PARCE"
+                    "valueString": "Erich Parce"
                   },
                   "OTHER": {
                     "type": "string"
@@ -107,11 +107,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Rosina, ward of Dr. Bartolo"
+                    "valueString": "Rosina"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "JUNE ANDERSON"
+                    "valueString": "June Anderson"
                   },
                   "OTHER": {
                     "type": "string",
@@ -124,11 +124,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Rosina, ward of Dr. Bartolo"
+                    "valueString": "Rosina"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "MARY LOGAN HASTINGS"
+                    "valueString": "Mary Logan Hastings"
                   },
                   "OTHER": {
                     "type": "string"
@@ -140,11 +140,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Dr. Barolo, a physician"
+                    "valueString": "Dr. Barolo"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "MICHAEL LI PAZ"
+                    "valueString": "Michael Li Paz"
                   },
                   "OTHER": {
                     "type": "string",
@@ -157,11 +157,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Dr. Barolo, a physician"
+                    "valueString": "Dr. Barolo"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "ARCHIE DRAKE"
+                    "valueString": "Archie Drake"
                   },
                   "OTHER": {
                     "type": "string"
@@ -173,11 +173,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Ambrogio, servant of Dr. Bartolo"
+                    "valueString": "Ambrogio"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "OSBORN MOE"
+                    "valueString": "Osborn Moe"
                   },
                   "OTHER": {
                     "type": "string"
@@ -189,11 +189,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Berta, housemaid of Dr. Bartolo"
+                    "valueString": "Berta"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "SHIRLEY HARNED"
+                    "valueString": "Shirley Harned"
                   },
                   "OTHER": {
                     "type": "string"
@@ -205,11 +205,11 @@
                 "valueObject": {
                   "ROLE": {
                     "type": "string",
-                    "valueString": "Don Basilio, a music master"
+                    "valueString": "Don Basilio"
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "NOEL MANGIN, O.B.E."
+                    "valueString": "Noel Mangin, O.B.E."
                   },
                   "OTHER": {
                     "type": "string"
@@ -225,7 +225,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "RICHARD VALE"
+                    "valueString": "Richard Vale"
                   },
                   "OTHER": {
                     "type": "string"
@@ -241,7 +241,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "HENRY HOLT"
+                    "valueString": "Henry Holt"
                   },
                   "OTHER": {
                     "type": "string"
@@ -257,7 +257,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "JAMES LUCAS"
+                    "valueString": "James Lucas"
                   },
                   "OTHER": {
                     "type": "string"
@@ -273,7 +273,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "MICHAEL MITCHELL"
+                    "valueString": "Michael Mitchell"
                   },
                   "OTHER": {
                     "type": "string"
@@ -289,7 +289,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "E. DEE TORREY"
+                    "valueString": "E. Dee Torrey"
                   },
                   "OTHER": {
                     "type": "string"
@@ -305,7 +305,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "WAYNE GEROU"
+                    "valueString": "Wayne Gerou"
                   },
                   "OTHER": {
                     "type": "string"
@@ -321,7 +321,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "BARBARA MURPHY-YORK"
+                    "valueString": "Barbara Murphy-York"
                   },
                   "OTHER": {
                     "type": "string"
@@ -337,7 +337,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "REBECCA WAKEFIELD"
+                    "valueString": "Rebecca Wakefield"
                   },
                   "OTHER": {
                     "type": "string"
@@ -353,7 +353,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "MARK MOORE"
+                    "valueString": "Mark Moore"
                   },
                   "OTHER": {
                     "type": "string"
@@ -369,7 +369,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "ERCOLE SORMANI"
+                    "valueString": "Ercole Sormani"
                   },
                   "OTHER": {
                     "type": "string"
@@ -385,7 +385,7 @@
                   },
                   "ARTIST": {
                     "type": "string",
-                    "valueString": "SEATTLE OPERA ASSOCIATION"
+                    "valueString": "Seattle Opera Association"
                   },
                   "OTHER": {
                     "type": "string"
@@ -2789,7 +2789,7 @@
     "tokens": {
       "contextualization": 1000,
       "input": 3093,
-      "output": 835
+      "output": 730
     }
   }
 }

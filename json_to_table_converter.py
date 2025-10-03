@@ -36,10 +36,10 @@ def load_json_data(file_path: str) -> Dict[str, Any]:
         raise
 
 
-def extract_table_data(json_data: Dict[str, Any]) -> List[Dict[str, str]]:
+def extract_table_data(json_data: Dict[str, Any], filename: str = '') -> List[Dict[str, str]]:
     """
     Extract table data from JSON structure.
-    Returns a list of dictionaries with keys: SHOW, DATES, ROLE, ARTIST, OTHER
+    Returns a list of dictionaries with keys: SHOW, DATES, ROLE, ARTIST, OTHER, FILENAME
     """
     table_data = []
     
@@ -89,7 +89,8 @@ def extract_table_data(json_data: Dict[str, Any]) -> List[Dict[str, str]]:
                                     'DATES': dates,
                                     'ROLE': role,
                                     'ARTIST': artist,
-                                    'OTHER': other
+                                    'OTHER': other,
+                                    'FILENAME': filename
                                 })
     
     return table_data
@@ -105,7 +106,7 @@ def save_to_csv(data: List[Dict[str, str]], output_path: str, append_mode: bool 
     mode = 'a' if append_mode else 'w'
     
     with open(output_path, mode, newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['SHOW', 'DATES', 'ROLE', 'ARTIST', 'OTHER']
+        fieldnames = ['SHOW', 'DATES', 'ROLE', 'ARTIST', 'OTHER', 'FILENAME']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         # Write header only if file doesn't exist or not in append mode
@@ -166,7 +167,9 @@ def process_multiple_files(input_pattern: str, output_path: str, output_format: 
         try:
             print(f"Processing: {json_file}")
             json_data = load_json_data(json_file)
-            table_data = extract_table_data(json_data)
+            # Extract just the filename from the full path
+            filename = os.path.basename(json_file)
+            table_data = extract_table_data(json_data, filename)
             
             if table_data:
                 all_data.extend(table_data)
@@ -241,7 +244,8 @@ def main():
         
         # Extract table data
         print("Extracting table data...")
-        table_data = extract_table_data(json_data)
+        filename = os.path.basename(args.input)
+        table_data = extract_table_data(json_data, filename)
         
         if not table_data:
             print("No valid data found in the JSON file.")

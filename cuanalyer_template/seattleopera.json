@@ -1,0 +1,42 @@
+{
+	"fieldSchema": {
+		"fields": {
+			"SHOW": {
+				"type": "string",
+				"method": "extract",
+				"description": "The name of the opera this playbill is about."
+			},
+			"DATES": {
+				"type": "string",
+				"method": "generate",
+				"description": "The dates the opera was shown. Can be a year only, if days are unclear."
+			},
+			"ROLES": {
+				"type": "array",
+				"method": "generate",
+				"description": "All roles of the cast and crew mentioned. Multiple people can be on a role in this case mention the role multiple times.",
+				"items": {
+					"type": "object",
+					"method": "extract",
+					"properties": {
+						"ROLE": {
+							"type": "string",
+							"method": "extract",
+							"description": "All roles of the cast and crew mentioned. Multiple people can be on a role in this case mention the role multiple times. Examples can be: Conductor,Director,Set and Costume Designer,Supratitles,The Muse,Lindorf,Andrés,Nicklausse,Luther,Dr. Miracle,Musical Preparation,Chorusmaster,Assistant Director,Hair Designer,Make-up Designer,Stage Manager"
+						},
+						"ARTIST": {
+							"type": "string",
+							"method": "extract",
+							"description": "Name of the person assigned to the role"
+						},
+						"OTHER": {
+							"type": "string",
+							"method": "extract",
+							"description": "Sometimes there is additional information in addition to the artist like a language, a company name or whether it's the first or second artist. Leave empty if not found. Examples: 'Milan Italy', 'Seattle Opera Costume Shop', 'Gold', 'Silver', 'First', 'Second', 'Opera-in-English', 'The Greater Miami Opera Ass'm', etc."
+						}
+					}
+				}
+			}
+		}
+	}
+}

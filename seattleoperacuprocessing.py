@@ -32,7 +32,7 @@ class SeattleOperaTableConverter:
     """
     
     def __init__(self):
-        self.fieldnames = ['SHOW', 'DATES', 'ROLE', 'ARTIST', 'OTHER']
+        self.fieldnames = ['SHOW', 'DATES', 'ROLE', 'ARTIST', 'OTHER', 'FILENAME']
     
     def load_json_data(self, file_path: str) -> Dict[str, Any]:
         """Load JSON data from file."""
@@ -46,10 +46,10 @@ class SeattleOperaTableConverter:
             print(f"Error: Invalid JSON in file '{file_path}': {e}")
             raise
 
-    def extract_table_data(self, json_data: Dict[str, Any]) -> List[Dict[str, str]]:
+    def extract_table_data(self, json_data: Dict[str, Any], filename: str = '') -> List[Dict[str, str]]:
         """
         Extract table data from JSON structure.
-        Returns a list of dictionaries with keys: SHOW, DATES, ROLE, ARTIST, OTHER
+        Returns a list of dictionaries with keys: SHOW, DATES, ROLE, ARTIST, OTHER, FILENAME
         """
         table_data = []
         
@@ -99,7 +99,8 @@ class SeattleOperaTableConverter:
                                         'DATES': dates,
                                         'ROLE': role,
                                         'ARTIST': artist,
-                                        'OTHER': other
+                                        'OTHER': other,
+                                        'FILENAME': filename
                                     })
         
         return table_data
@@ -141,7 +142,9 @@ class SeattleOperaTableConverter:
             try:
                 print(f"Processing: {json_file}")
                 json_data = self.load_json_data(json_file)
-                table_data = self.extract_table_data(json_data)
+                # Extract just the filename from the full path
+                filename = Path(json_file).name
+                table_data = self.extract_table_data(json_data, filename)
                 
                 if table_data:
                     # Organize this file's data by year
@@ -306,7 +309,7 @@ def main():
         subscription_key=os.getenv("AZURE_CONTENT_UNDERSTANDING_SUBSCRIPTION_KEY"),
         aad_token="AZURE_CONTENT_UNDERSTANDING_AAD_TOKEN",
         # Insert the analyzer name.
-        analyzer_id="seattleopera",
+        analyzer_id=os.getenv("AZURE_CONTENT_UNDERSTANDING_ANALYZER_ID"),
         # Insert the supported file types of the analyzer.
         # file_location="./playbills/1980-81-Manon-Lescaut-Artists-Page.jpg",
     )
@@ -316,12 +319,6 @@ def main():
         subscription_key=settings.subscription_key,
         token_provider=settings.token_provider,
     )
-    # response = client.begin_analyze(settings.analyzer_id, settings.file_location)
-    # result = client.poll_result(
-    #     response,
-    #     timeout_seconds=60 * 60,
-    #     polling_interval_seconds=1,
-    # )
     
     # Process all files in the playbills folder
     playbills_folder = Path("./playbills")

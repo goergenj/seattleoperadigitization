@@ -40,12 +40,14 @@ This project processes Seattle Opera historical data through two complementary a
 seattleopera/
 ├── json_to_table_converter.py      # Standalone JSON→Excel/CSV converter
 ├── seattleoperacuprocessing.py     # Integrated Azure AI + conversion workflow
+├── requirements.txt                # Python dependencies
 ├── .env                            # Azure credentials configuration (create from sample)
 ├── .env_sample                     # Sample environment file template
+├── cuanalyer_template/             # Azure Content Understanding analyzer template
+│   └── seattleopera.json          # Pre-configured analyzer for opera playbills
 ├── curesults/                      # JSON processing directory
 │   └── processed/                  # Auto-managed processed files folder
 ├── playbills/                      # Input images directory
-│   └── processed/                  # Auto-managed processed files folder
 └── README.md                       # This documentation
 ```
 
@@ -53,6 +55,7 @@ seattleopera/
 
 - **`json_to_table_converter.py`** - Standalone conversion tool with command-line interface
 - **`seattleoperacuprocessing.py`** - Complete workflow: image processing + automatic Excel conversion with file management
+- **`cuanalyer_template/seattleopera.json`** - Azure Content Understanding analyzer template for opera playbills
 
 ## Quick Start
 
@@ -164,6 +167,7 @@ The converter creates tables with these columns:
 - **ROLE**: Role or position (conductor, character, etc.)
 - **ARTIST**: Name of the performer/artist
 - **OTHER**: Additional information (if available)
+- **FILENAME**: Original JSON filename (for tracking data source)
 
 ## Features
 
@@ -196,16 +200,57 @@ The converter creates tables with these columns:
 
 - **Python 3.8+**
 - **Azure AI account** (for integrated processor)
-- **Required packages**: pandas, openpyxl, azure-ai-documentintelligence, python-dotenv
+- **Required packages**: See `requirements.txt`
 
-### Installation
+### Quick Setup (Recommended)
+
+1. **Clone and Navigate to Project**:
+
+   ```bash
+   git clone <repository-url>
+   cd seattleoperadigitization
+   ```
+
+2. **Create Virtual Environment**:
+
+   ```bash
+   # Create virtual environment
+   python -m venv .venv
+   
+   # Activate virtual environment
+   # On Windows (PowerShell):
+   .\.venv\Scripts\Activate.ps1
+   
+   # On Windows (Command Prompt):
+   .\.venv\Scripts\activate.bat
+   
+   # On macOS/Linux:
+   source .venv/bin/activate
+   ```
+
+3. **Install Dependencies**:
+
+   ```bash
+   # Install all required packages from requirements.txt
+   pip install -r requirements.txt
+   ```
+
+4. **Set up Azure credentials** (for integrated processor):
+
+   ```bash
+   # Copy the sample environment file
+   cp .env_sample .env
+   # Edit .env file with your actual Azure credentials
+   ```
+
+### Manual Installation (Alternative)
 
 ```bash
-# Install required dependencies
-pip install pandas openpyxl azure-ai-documentintelligence python-dotenv
+# Install required dependencies individually
+pip install pandas openpyxl azure-ai-documentintelligence python-dotenv requests xlsxwriter
 
 # Navigate to the tool directory
-cd seattleopera
+cd seattleoperadigitization
 
 # Set up Azure credentials (copy from .env_sample)
 cp .env_sample .env
@@ -230,7 +275,54 @@ cp .env_sample .env
    # AZURE_CONTENT_UNDERSTANDING_SUBSCRIPTION_KEY=your_32_character_key
    ```
 
-3. **Verify Setup**:
+3. **Set Up Custom Content Understanding Analyzer**:
+
+   This project includes a pre-configured analyzer template specifically designed for Seattle Opera playbill processing. The template defines the exact data structure and extraction fields optimized for opera program data.
+
+   **Using the Provided Template:**
+
+   ```bash
+   # The analyzer template is located at:
+   cuanalyer_template/seattleopera.json
+   ```
+
+   **Template Structure:**
+   - **SHOW**: Extracts the opera name from playbill images
+   - **DATES**: Generates performance dates (supports year-only when days unclear)
+   - **ROLES**: Array of cast and crew information with:
+     - **ROLE**: Position (Conductor, Director, Character names, etc.)
+     - **ARTIST**: Person's name assigned to the role
+     - **OTHER**: Additional context (company, language, performance order)
+
+   **To set up your own Content Understanding instance:**
+
+   1. **Create Azure AI Foundry Resource**:
+      - Go to [Azure Portal](https://portal.azure.com)
+      - Create "Azure AI Foundry" resource
+      - Note the endpoint and subscription key
+
+   2. **Import the Analyzer Template**:
+      - Access your Content Understanding Studio on [Foundry Portal](https://ai.azure.com)
+      - Create new analyzer project
+      - Import the provided `cuanalyer_template/seattleopera.json` template
+      - Train the analyzer with sample playbill images
+      - Deploy the trained model
+
+   3. **Update Environment Configuration**:
+
+      ```bash
+      # Add to your .env file:
+      AZURE_CONTENT_UNDERSTANDING_ANALYZER_ID=your_deployed_analyzer_id
+      ```
+
+   **Benefits of the Custom Template:**
+   - Optimized field extraction for opera program data
+   - Handles multiple cast members per role
+   - Extracts crew positions (directors, designers, etc.)
+   - Captures additional context information
+   - Supports flexible date formats common in playbills
+
+4. **Verify Setup**:
 
    ```bash
    # Test standalone converter (no Azure required)
@@ -304,4 +396,3 @@ python seattleoperacuprocessing.py
 **Components**: Azure AI Document Intelligence + Excel Table Generation  
 **Status**: Production Ready  
 **Author**: Jan Goergen
-

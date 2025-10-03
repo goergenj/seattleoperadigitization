@@ -1,0 +1,16 @@
+# Seattle Opera Digitization Project Dependencies
+
+# Core data processing
+pandas>=2.0.0
+
+# HTTP requests for API calls
+requests>=2.31.0
+
+# Environment variable management (optional but recommended)
+python-dotenv>=1.0.0
+
+# Excel file support for pandas
+openpyxl>=3.1.0
+
+# Additional Excel engine option
+xlsxwriter>=3.1.0
